@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" width="800">
+      <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" width="775">
     </td>
   </tr>
 </table>
