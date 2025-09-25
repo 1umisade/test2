@@ -36,9 +36,9 @@
     <td align="center"><p>Left click to<br>add particles</p></td>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" width="300"></td>
-    <td align="center"><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" width="300"></td>
-    <td align="center"><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" width="300"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" width="250"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" width="250"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" width="250"></td>
   </tr>
   <tr>
     <td colspan="3" align="center"><p>Adjust speed of particles using the Speed slider</p></td>
@@ -65,9 +65,9 @@
     <td align="center">Oxygen evolving complex</td>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/Plastoquinone_A_DetailSprite.png" alt="Plastoquinone B" width="300"></td>
-    <td align="center"><img src="Documentation/images/proton.png" alt="Proton" width="300"></td>
-    <td align="center"><img src="Documentation/images/oxygen_evolving complex_SimpleSprite.png" alt="Oxygen evolving complex" width="300"></td>
+    <td align="center"><img src="Documentation/images/Plastoquinone_A_DetailSprite.png" alt="Plastoquinone B" width="250"></td>
+    <td align="center"><img src="Documentation/images/proton.png" alt="Proton" width="250"></td>
+    <td align="center"><img src="Documentation/images/oxygen_evolving complex_SimpleSprite.png" alt="Oxygen evolving complex" width="250"></td>
   </tr>
 </table>
 </h1>
@@ -89,19 +89,10 @@
   </tr>
 </table>
 
+<br>
+<br>
 
-
-
-
-
-
-
-
-
-
-
-<h1
-
+<h1>
 <table align="center">
   <tr>
     <td align="center">Cytochrome b₆f</td>
@@ -109,9 +100,9 @@
     <td align="center">Photosystem II</td>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/dimeric_Cytochrome_b6f_SimpleSprite.png" alt="Cytochrome b6f" width="300"></td>
-    <td align="center"><img src="Documentation/images/rotated_ATP-synthase_SimpleSprite.png" alt="ATP synthase" width="300"></td>
-    <td align="center"><img src="Documentation/images/Photosystem_II_SimpleSprite.png" alt="Photosystem II" width="300"></td>
+    <td align="center"><img src="Documentation/images/dimeric_Cytochrome_b6f_SimpleSprite.png" alt="Cytochrome b6f" width="250"></td>
+    <td align="center"><img src="Documentation/images/rotated_ATP-synthase_SimpleSprite.png" alt="ATP synthase" width="250"></td>
+    <td align="center"><img src="Documentation/images/Photosystem_II_SimpleSprite.png" alt="Photosystem II" width="250"></td>
   </tr>
 </table>
 </h1>
@@ -139,6 +130,46 @@
   </tr>
 </table>
 
+<br>
+<br>
+
+<h1>
+<table align="center">
+  <tr>
+    <td align="center">Plastocyanin</td>
+    <td align="center">ATP</td>
+    <td align="center">Water</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Documentation/images/plastocyanin_SimpleSprite.png" alt="Plastocyanin" width="250"></td>
+    <td align="center"><img src="Documentation/images/ATP_DetailSprite.png" alt="ATP" width="250"></td>
+    <td align="center"><img src="Documentation/images/H2O_DetailSprite.png" alt="Water" width="250"></td>
+  </tr>
+</table>
+</h1>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+        Plastocyanin is a small copper-containing protein that shuttles electrons between cytochrome b₆f and Photosystem I. 
+        It operates in the thylakoid lumen and is essential for connecting the two photosystems. 
+        By carrying single electrons, plastocyanin ensures that the flow of charges remains continuous during light reactions. 
+        Without plastocyanin, Photosystem I would not receive the electrons needed for NADPH formation. 
+    </td>
+    <td align="center" width="300">
+        ATP is the universal energy currency of the cell and a direct product of the light reactions of photosynthesis. 
+        It is synthesized by ATP synthase as protons flow back across the thylakoid membrane. 
+        In photosynthesis, ATP provides the chemical energy required for the Calvin cycle to fix carbon dioxide. 
+        Its rapid turnover makes ATP indispensable for sustaining cellular and metabolic processes. 
+    </td>
+    <td align="center" width="300">
+        Water is the primary electron donor in oxygenic photosynthesis. 
+        At Photosystem II’s oxygen-evolving complex, two water molecules are split to release four protons, four electrons, and one oxygen molecule. 
+        The electrons replace those excited and lost from P680 chlorophyll, while the protons contribute to the lumenal proton gradient. 
+        This water-splitting reaction is the source of nearly all atmospheric oxygen on Earth. 
+    </td>
+  </tr>
+</table>
 
 
 
