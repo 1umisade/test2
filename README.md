@@ -35,9 +35,9 @@
     <td align="center"><p>Left click to add particles</p></td>
   </tr>
   <tr> 
-    <td align="center"><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" width="250"></td>
-    <td align="center"><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" width="250"></td>
-    <td align="center"><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" width="250"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" width="225"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" width="225"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" width="225"></td>
   </tr>
   <tr>
     <td colspan="3" align="center"><p>Adjust speed of particles using the Speed slider</p></td>
