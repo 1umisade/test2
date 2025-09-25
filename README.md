@@ -55,7 +55,7 @@
 <br>
 <br>
 
-<h1 align="center">Glossary of simulation components
+<h1 align="center">Glossary of simulation components</h1>
 <br>
 <br>
 
@@ -67,7 +67,8 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="Documentation/images/Plastoquinone_A_DetailSprite.png" alt="Plastoquinone B" width="250">
+     <a href="https://example.com/docs" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+      <img src="Documentation/images/Plastoquinone_A_DetailSprite.png" style="height:250;">
     </td>
     <td align="center">
       <img src="Documentation/images/proton.png" alt="Proton" width="250">
