@@ -31,13 +31,13 @@
 <table align="center">
   <tr>
     <td align="center"><p>Scroll to zoom</p></td>
-    <td align="center"><p>Right click to<br>move camera</p></td>
-    <td align="center"><p>Left click to<br>add particles</p></td>
+    <td align="center"><p>Right click to move camera</p></td>
+    <td align="center"><p>Left click to add particles</p></td>
   </tr>
-  <tr>
-    <td align="center"><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" width="300"></td>
-    <td align="center"><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" width="300"></td>
-    <td align="center"><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" width="300"></td>
+  <tr> 
+    <td align="center"><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" width="250"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" width="250"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" width="250"></td>
   </tr>
   <tr>
     <td colspan="3" align="center"><p>Adjust speed of particles using the Speed slider</p></td>
@@ -64,7 +64,7 @@
   <tr>
     <td align="center"><img src="Documentation/images/Plastoquinone_A_DetailSprite.png" alt="Plastoquinone B" width="250"></td>
     <td align="center"><img src="Documentation/images/proton.png" alt="Proton" width="250"></td>
-    <td align="center"><img src="Documentation/images/oxygen_evolving complex_SimpleSprite.png" alt="Oxygen evolving complex" width="250"></td>
+    <td align="center"><img src="Documentation/images/oxygen_evolving complex_DetailSprite.png" alt="Oxygen evolving complex" width="250"></td>
   </tr>
   <tr>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
@@ -77,7 +77,7 @@
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
       The oxygen-evolving complex, also called the water-splitting complex, is bound to Photosystem II. It contains a cluster of four manganese ions, one calcium ion, and five oxygen atoms (Mn₄CaO₅ cluster). The OEC oxidizes two water molecules, releasing four protons into the lumen, four electrons to P680⁺, and one molecule of O₂ as a byproduct. This reaction is the only known biological source of atmospheric oxygen and is fundamental to life on Earth.
-      <br><a href="Documentation/Oxygen-evolving_complex.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
+      <br><a href="Documentation/OEC.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
   </tr>
 </table>
@@ -122,21 +122,21 @@
     <th align="center" width="250">Water</th>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/plastocyanin_SimpleSprite.png" alt="Plastocyanin" width="250"></td>
+    <td align="center"><img src="Documentation/images/plastocyanin_DetailSprite.png" alt="Plastocyanin" width="250"></td>
     <td align="center"><img src="Documentation/images/ATP_DetailSprite.png" alt="ATP" width="250"></td>
     <td align="center"><img src="Documentation/images/H2O_DetailSprite.png" alt="Water" width="250"></td>
   </tr>
   <tr>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Plastocyanin is a small copper-containing protein that shuttles electrons between cytochrome b₆f and Photosystem I. It operates in the thylakoid lumen and is essential for connecting the two photosystems. By carrying single electrons, plastocyanin ensures that the flow of charges remains continuous during light reactions. Without plastocyanin, Photosystem I would not receive the electrons needed for NADPH formation.
+      Plastocyanin is a small copper protein that shuttles single electrons between cytochrome b₆f and Photosystem I. It operates on the lumenal side of the thylakoid membrane and diffuses rapidly between complexes. By carrying one electron at a time, it maintains continuity of electron flow during the light reactions. Without plastocyanin, Photosystem I would lack the electrons needed to reduce ferredoxin and ultimately NADP⁺.
       <br><a href="Documentation/Plastocyanin.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      ATP is the universal energy currency of the cell and a direct product of the light reactions of photosynthesis. It is synthesized by ATP synthase as protons flow back across the thylakoid membrane. In photosynthesis, ATP provides the chemical energy required for the Calvin cycle to fix carbon dioxide. Its rapid turnover makes ATP indispensable for sustaining cellular and metabolic processes.
+      ATP is the universal energy currency produced during the light reactions of photosynthesis. ATP synthase uses the proton-motive force across the thylakoid membrane to phosphorylate ADP and Pi. The mechanical rotation of the enzyme’s FoF₁ subunits is coupled to chemical bond formation. The ATP generated powers carbon fixation and many other energy-requiring steps in the chloroplast.
       <br><a href="Documentation/ATP.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Water is the primary electron donor in oxygenic photosynthesis. At Photosystem II’s oxygen-evolving complex, two water molecules are split to release four protons, four electrons, and one oxygen molecule. The electrons replace those excited and lost from P680 chlorophyll, while the protons contribute to the lumenal proton gradient. This water-splitting reaction is the source of nearly all atmospheric oxygen on Earth.
+      Water is the initial electron donor in oxygenic photosynthesis. At the oxygen-evolving complex of Photosystem II, two H₂O molecules are oxidized to release O₂, four protons, and four electrons. The electrons refill the oxidized P680⁺, enabling continuous charge separation. The released protons contribute to the lumenal gradient that drives ATP synthesis.
       <br><a href="Documentation/Water.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
   </tr>
@@ -152,21 +152,21 @@
     <th align="center" width="250">Ferredoxin–NADP reductase</th>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/Photosystem_I_SimpleSprite.png" alt="Photosystem I" width="250"></td>
-    <td align="center"><img src="Documentation/images/ferredoxin_SimpleSprite.png" alt="Ferredoxin" width="250"></td>
-    <td align="center"><img src="Documentation/images/ferredoxin-NADP-reductase_SimpleSprite.png" alt="FNR" width="250"></td>
+    <td align="center"><img src="Documentation/images/Photosystem_I_DetailSprite.png" alt="Photosystem I" width="250"></td>
+    <td align="center"><img src="Documentation/images/ferredoxin_DetailSprite.png" alt="Ferredoxin" width="250"></td>
+    <td align="center"><img src="Documentation/images/ferredoxin-NADP-reductase_DetailSprite.png" alt="FNR" width="250"></td>
   </tr>
   <tr>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Photosystem I (PSI) uses P700 to drive electron transfer from plastocyanin to ferredoxin. It receives electrons from PSII via cytochrome b₆f and plastocyanin and generates the strong reductant needed for NADP⁺ reduction.
+      Photosystem I (PSI) uses the special pair P700 to drive electron transfer from plastocyanin to ferredoxin. It receives electrons delivered from PSII via cytochrome b₆f and plastocyanin. By photoexciting P700, PSI generates a highly reducing potential that enables reduction of ferredoxin. This step ultimately provides electrons for NADP⁺ reduction to NADPH by FNR.
       <br><a href="Documentation/Photosystem_I.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Ferredoxin is a small stromal [2Fe–2S] protein that carries one electron at a time from PSI to FNR. It serves as a branch point between linear and cyclic electron flow with fast diffusion and tuned redox potential.
+      Ferredoxin is a small stromal [2Fe–2S] protein that carries one electron at a time away from PSI. It shuttles electrons to ferredoxin–NADP reductase for NADPH formation. It also can feed cyclic electron flow around PSI, which boosts the proton gradient without producing NADPH. Its rapid diffusion and tuned redox potential make it an efficient terminal acceptor from PSI.
       <br><a href="Documentation/Ferredoxin.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Ferredoxin–NADP reductase (FNR) is a flavoprotein (FAD) that reduces NADP⁺ to NADPH using electrons from ferredoxin. It associates with the thylakoid membrane or stroma, supplying reductant for the Calvin cycle.
+      Ferredoxin–NADP reductase (FNR) is a flavoprotein containing FAD that catalyzes reduction of NADP⁺ to NADPH. It accepts electrons from reduced ferredoxin and transfers a hydride to NADP⁺ at the active site. FNR is found soluble in the stroma or bound near the thylakoid membrane, positioning it close to PSI. The NADPH produced supplies reducing power for the Calvin cycle and other biosynthetic reactions.
       <br><a href="Documentation/Ferredoxin-NADP_reductase.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
   </tr>
@@ -182,21 +182,21 @@
     <th align="center" width="250">CO₂</th>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/NADP_SimpleSprite.png" alt="NADP+" width="250"></td>
+    <td align="center"><img src="Documentation/images/NADP_DetailSprite.png" alt="NADP+" width="250"></td>
     <td align="center"><img src="Documentation/images/ADP_DetailSprite.png" alt="ADP" width="250"></td>
-    <td align="center"><img src="Documentation/images/CO2_SimpleSprite.png" alt="CO2" width="250"></td>
+    <td align="center"><img src="Documentation/images/CO2_DetailSprite.png" alt="CO2" width="250"></td>
   </tr>
   <tr>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      NADP⁺ is the terminal electron acceptor of the light reactions and is reduced to NADPH by FNR. It carries a hydride and fuels anabolic reductions in the Calvin cycle.
+      NADP⁺ is the terminal electron acceptor of the photosynthetic electron-transport chain. FNR reduces NADP⁺ by transferring a hydride derived from ferredoxin. The resulting NADPH provides reducing equivalents for CO₂ fixation and stromal metabolism. Its pool size and redox state couple light reactions to the demands of the Calvin cycle.
       <br><a href="Documentation/NADP.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      ADP is phosphorylated by ATP synthase during photophosphorylation to form ATP, powered by the proton-motive force across the thylakoid membrane.
+      ADP is phosphorylated by ATP synthase during photophosphorylation to form ATP. The energy comes from the proton-motive force generated by water oxidation and cytochrome b₆f activity. ADP/ATP interconversion links electron transport to carbon assimilation and metabolite export. Stromal ADP availability and Pi recycling regulate the rate of ATP production.
       <br><a href="Documentation/ADP.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      CO₂ is the inorganic carbon source fixed by RuBisCO in the Calvin cycle; one CO₂ reacts with RuBP to form two 3-phosphoglycerate molecules.
+      CO₂ is the inorganic carbon source fixed by RuBisCO in the Calvin cycle. One molecule of CO₂ combines with RuBP to form two molecules of 3-phosphoglycerate. Its assimilation depends on stomatal conductance, Rubisco kinetics, and chloroplast energy status. Fixed carbon is subsequently reduced using ATP and NADPH generated by the light reactions.
       <br><a href="Documentation/CO2.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
   </tr>
@@ -212,21 +212,21 @@
     <th align="center" width="250">3-phosphoglyceric acid (3PGA)</th>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/RuBisCo_SimpleSprite.png" alt="RuBisCO" width="250"></td>
-    <td align="center"><img src="Documentation/images/ribulose-1,5-bisphosphate (RuBP)_SimpleSprite.png" alt="RuBP" width="250"></td>
-    <td align="center"><img src="Documentation/images/3-phosphoglyceric_acid (3PGA)_SimpleSprite.png" alt="3PGA" width="250"></td>
+    <td align="center"><img src="Documentation/images/RuBisCo_DetailSprite.png" alt="RuBisCO" width="250"></td>
+    <td align="center"><img src="Documentation/images/ribulose-1,5-bisphosphate (RuBP)_DetailSprite.png" alt="RuBP" width="250"></td>
+    <td align="center"><img src="Documentation/images/3-phosphoglyceric_acid (3PGA)_DetailSprite.png" alt="3PGA" width="250"></td>
   </tr>
   <tr>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      RuBisCO catalyzes carboxylation of RuBP and initiates CO₂ fixation; it also performs oxygenation leading to photorespiration.
+      RuBisCO catalyzes the carboxylation of RuBP, initiating CO₂ fixation in the chloroplast stroma. It also catalyzes oxygenation of RuBP, leading to photorespiration. Rubisco activity is regulated by activase, pH, Mg²⁺, and substrate concentrations. As the gatekeeper for carbon entry, it often limits photosynthetic productivity.
       <br><a href="Documentation/RuBisCO.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      RuBP is the five-carbon CO₂ acceptor that is regenerated in the Calvin cycle using ATP and NADPH.
+      Ribulose-1,5-bisphosphate (RuBP) is the five-carbon CO₂ acceptor consumed by RuBisCO. It is regenerated in the Calvin cycle from triose phosphates using ATP and NADPH. Maintaining sufficient RuBP pools is essential to sustain carboxylation rates. Regeneration capacity sets an upper bound on steady-state CO₂ assimilation.
       <br><a href="Documentation/RuBP.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      3-PGA is the first stable product of RuBisCO carboxylation; it is phosphorylated and reduced to triose phosphates using ATP and NADPH.
+      3-phosphoglycerate (3-PGA) is the first stable product of RuBisCO carboxylation. It is phosphorylated by phosphoglycerate kinase using ATP to form 1,3-bisphosphoglycerate. Then it is reduced by NADPH to glyceraldehyde-3-phosphate in the Calvin cycle. Thus 3-PGA connects carbon fixation to triose-phosphate production for export or starch synthesis.
       <br><a href="Documentation/3PGA.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
   </tr>
@@ -242,21 +242,21 @@
     <th align="center" width="250">Tyrosine</th>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/Glyceraldehyde 3-phosphate_SimpleSprite.png" alt="G3P" width="250"></td>
-    <td align="center"><img src="Documentation/images/Phosphate_SimpleSprite.png" alt="Phosphate" width="250"></td>
-    <td align="center"><img src="Documentation/images/Tyrosine_SimpleSprite.png" alt="Tyrosine" width="250"></td>
+    <td align="center"><img src="Documentation/images/Glyceraldehyde 3-phosphate_DetailSprite.png" alt="G3P" width="250"></td>
+    <td align="center"><img src="Documentation/images/Phosphate_DetailSprite.png" alt="Phosphate" width="250"></td>
+    <td align="center"><img src="Documentation/images/Tyrosine_DetailSprite.png" alt="Tyrosine" width="250"></td>
   </tr>
   <tr>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      G3P is the triose-phosphate product exported for sucrose synthesis or retained for starch; its export couples to Pi import.
+      Glyceraldehyde-3-phosphate (G3P) is a triose phosphate produced by reduction of 3-PGA. It can be exported to the cytosol for sucrose synthesis or retained for starch formation. Its export through the triose-phosphate/phosphate translocator is coupled to Pi import. The G3P/Pi balance helps coordinate chloroplast energy and carbon metabolism.
       <br><a href="Documentation/G3P.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Inorganic phosphate recycles during ATP/ADP interconversion and triose-phosphate export; availability modulates photophosphorylation.
+      Inorganic phosphate (Pi) cycles during ATP/ADP interconversion and during triose-phosphate export. Pi availability in the stroma influences photophosphorylation rate and thylakoid proton motive force. The Pi–triose-phosphate translocator maintains phosphate balance across the envelope. Perturbations in Pi can feedback on ATP synthase activity and carbon assimilation.
       <br><a href="Documentation/Phosphate.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      In PSII, Tyr<sub>Z</sub> (D1-Y161) relays electrons from the OEC to P680⁺ via a tyrosyl radical during proton-coupled electron transfer.
+      In Photosystem II, the tyrosine residue Tyr<sub>Z</sub> (D1-Y161) relays electrons from the oxygen-evolving complex to P680⁺. This occurs via formation of a transient tyrosyl radical during proton-coupled electron transfer. The kinetics of Tyr<sub>Z</sub> oxidation and rereduction strongly influence water-oxidation turnover. This pathway stabilizes charge separation and enables sequential S-state transitions in the OEC.
       <br><a href="Documentation/Tyrosine.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
   </tr>
@@ -272,21 +272,21 @@
     <th align="center" width="250">Pheophytin</th>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/Chlorophyll_A_SimpleSprite.png" alt="Chlorophyll a" width="250"></td>
-    <td align="center"><img src="Documentation/images/Phylloquinone_SimpleSprite.png" alt="Phylloquinone" width="250"></td>
-    <td align="center"><img src="Documentation/images/Pheophytin_SimpleSprite.png" alt="Pheophytin" width="250"></td>
+    <td align="center"><img src="Documentation/images/Chlorophyll_A_DetailSprite.png" alt="Chlorophyll a" width="250"></td>
+    <td align="center"><img src="Documentation/images/Phylloquinone_DetailSprite.png" alt="Phylloquinone" width="250"></td>
+    <td align="center"><img src="Documentation/images/Pheophytin_DetailSprite.png" alt="Pheophytin" width="250"></td>
   </tr>
   <tr>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Chlorophyll a is the primary pigment that absorbs light and drives charge separation in PSI and PSII; antenna chlorophylls funnel excitation to P700 and P680.
+      Chlorophyll a is the primary pigment that absorbs light and drives charge separation in both photosystems. It forms the special pair P680 in PSII and P700 in PSI. Antenna chlorophylls transfer excitation energy to these reaction centers via excitonic coupling. Its spectral properties define much of the action spectrum of oxygenic photosynthesis.
       <br><a href="Documentation/Chlorophyll_a.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Phylloquinone (A₁) is an early electron acceptor in PSI between A₀ and the FX [4Fe–4S] cluster, tuned for efficient forward transfer.
+      Phylloquinone (A₁) acts as an early electron acceptor within Photosystem I. It accepts an electron from A₀ (chlorophyll) and passes it to the FX [4Fe–4S] cluster. Its redox potential is finely tuned for rapid forward transfer while minimizing back reactions. This step helps secure directional electron flow toward ferredoxin.
       <br><a href="Documentation/Phylloquinone.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Pheophytin is a Mg-free chlorophyll that accepts the first stabilized electron from P680* in PSII and passes it rapidly to QA.
+      Pheophytin is a Mg-free chlorophyll that accepts the first stabilized electron from excited P680* in PSII. It transfers the electron rapidly to QA, the primary quinone acceptor. This initiates reduction of the QB site and subsequent plastoquinol formation. By stabilizing charge separation, pheophytin prevents rapid recombination.
       <br><a href="Documentation/Pheophytin.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
   </tr>
@@ -303,20 +303,20 @@
   </tr>
   <tr>
     <td align="center"><img src="Documentation/images/Plastoquinone_A_DetailSprite.png" alt="Plastoquinone" width="250"></td>
-    <td align="center"><img src="Documentation/images/Heme_SimpleSprite.png" alt="Heme" width="250"></td>
-    <td align="center"><img src="Documentation/images/2Fe-2S_SimpleSprite.png" alt="[2Fe-2S]" width="250"></td>
+    <td align="center"><img src="Documentation/images/Heme_DetailSprite.png" alt="Heme" width="250"></td>
+    <td align="center"><img src="Documentation/images/2Fe-2S_DetailSprite.png" alt="[2Fe-2S]" width="250"></td>
   </tr>
   <tr>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Plastoquinone shuttles electrons and protons between PSII and cytochrome b₆f, cycling between PQ and PQH₂ and contributing protons to the lumen.
+      Plastoquinone is a lipid-soluble quinone that shuttles electrons between PSII and cytochrome b₆f. It cycles between oxidized PQ and reduced PQH₂ while picking up and releasing protons. Oxidation at b₆f contributes two protons to the lumen per PQH₂ molecule. This diffusion-based shuttle links charge separation to proton translocation and ATP synthesis.
       <br><a href="Documentation/Plastoquinone.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Heme is the iron–porphyrin cofactor of cytochromes in b₆f, carrying electrons via Fe²⁺/Fe³⁺ cycling and setting midpoint potentials.
+      Heme is the iron-porphyrin cofactor present in cytochromes b₆ and f of the b₆f complex. It carries electrons via reversible Fe²⁺/Fe³⁺ redox chemistry. Distinct heme types with different potentials coordinate the Q-cycle electron paths. Together they ensure efficient transfer from PQH₂ to plastocyanin.
       <br><a href="Documentation/Heme.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      [2Fe–2S] clusters serve as one-electron carriers in proteins like ferredoxin and the b₆f Rieske protein, with ligation tuning their redox potential.
+      [2Fe–2S] clusters act as one-electron carriers in proteins such as ferredoxin and the Rieske protein of b₆f. Coordination by cysteine and histidine residues tunes their midpoint potentials. They enable fast, reversible electron transfer between protein partners. These clusters are crucial nodes in both linear and cyclic electron flow.
       <br><a href="Documentation/2Fe-2S.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
   </tr>
@@ -332,21 +332,21 @@
     <th align="center" width="250">Photon</th>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/4Fe-4S_SimpleSprite.png" alt="[4Fe-4S]" width="250"></td>
-    <td align="center"><img src="Documentation/images/Electron_SimpleSprite.png" alt="Electron" width="250"></td>
-    <td align="center"><img src="Documentation/images/Photon_SimpleSprite.png" alt="Photon" width="250"></td>
+    <td align="center"><img src="Documentation/images/4Fe-4S_DetailSprite.png" alt="[4Fe-4S]" width="250"></td>
+    <td align="center"><img src="Documentation/images/Electron_DetailSprite.png" alt="Electron" width="250"></td>
+    <td align="center"><img src="Documentation/images/Photon_DetailSprite.png" alt="Photon" width="250"></td>
   </tr>
   <tr>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      [4Fe–4S] clusters (FA and FB in PSI) relay electrons downstream of FX to ferredoxin and help drive reduction at the end of the chain.
+      [4Fe–4S] clusters FA and FB within PSI relay electrons from FX to ferredoxin. The cubane structure supports rapid electron tunneling with minimal reorganization energy. Their potentials help drive the reduction at the end of the chain. This positioning ensures efficient delivery to ferredoxin and onward to FNR.
       <br><a href="Documentation/4Fe-4S.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Electrons are the mobile charge carriers moved by light energy through pigments, quinones, metals and cofactors, ultimately reducing NADP⁺ to NADPH.
+      Electrons are the charge carriers energized by light and moved through pigments, quinones, metals, and cofactors. They alternate between excited states and redox carriers during the light reactions. Ultimately, they reduce NADP⁺ to NADPH via PSI and FNR. The rate and path of electron flow determine ATP/NADPH output balance.
       <br><a href="Documentation/Electron.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Photons are quanta of light absorbed by pigments to create excited electronic states, initiating energy transfer and primary charge separation.
+      Photons are quanta of light absorbed by pigments to create excited electronic states. Excitation energy migrates through antenna complexes to reaction centers. Primary charge separation converts photon energy into redox potential. Spectral quality and intensity shape photosynthetic yield and protection responses.
       <br><a href="Documentation/Photon.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
   </tr>
@@ -362,21 +362,21 @@
     <th align="center" width="250">Proton_channel</th>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/Choline_fosfolipid_SimpleSprite.png" alt="Choline phospholipid" width="250"></td>
-    <td align="center"><img src="Documentation/images/O2_SimpleSprite.png" alt="O2" width="250"></td>
-    <td align="center"><img src="Documentation/images/Proton_channel_SimpleSprite.png" alt="Proton channel" width="250"></td>
+    <td align="center"><img src="Documentation/images/Choline_fosfolipid_DetailSprite.png" alt="Choline phospholipid" width="250"></td>
+    <td align="center"><img src="Documentation/images/O2_DetailSprite.png" alt="O2" width="250"></td>
+    <td align="center"><img src="Documentation/images/Proton_channel_DetailSprite.png" alt="Proton channel" width="250"></td>
   </tr>
   <tr>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      A choline-containing phospholipid contributes to thylakoid membrane structure and fluidity, supporting protein function and diffusion.
+      A choline-containing phospholipid contributes to thylakoid membrane structure and fluidity. The bilayer environment modulates diffusion of quinones and mobility of protein complexes. It helps support proper folding and stability of embedded photosynthetic complexes. Membrane composition therefore influences efficiency and photoprotection.
       <br><a href="Documentation/Choline_fosfolipid.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      O₂ is released by PSII water oxidation into the lumen and then to the atmosphere; excess excitation can form reactive oxygen species from O₂.
+      O₂ is released by water oxidation at Photosystem II into the lumen and then diffuses out of the chloroplast. While essential for aerobic life, O₂ can also participate in formation of reactive oxygen species under excess light. Plants deploy energy-dissipation and antioxidant systems to limit oxidative damage. Net O₂ evolution is a signature outcome of oxygenic photosynthesis.
       <br><a href="Documentation/O2.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
     <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      The proton channel (Fo) of ATP synthase conducts H⁺ through the c-ring, converting proton-motive force into rotation that drives ATP formation.
+      The proton channel (Fo) of ATP synthase conducts H⁺ through the c-ring embedded in the membrane. Proton flow drives rotation of the central stalk that powers ATP formation in the F₁ head. Channel conductance and coupling efficiency determine ATP yield per unit pmf. This mechanochemical transduction links the light reactions to cellular energy currency.
       <br><a href="Documentation/Proton_channel.md" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:6px; font-size:13px;">Read more →</a>
     </td>
   </tr>
@@ -403,51 +403,6 @@
 
 
 
-
-
-
-
-<br>
-<br>
-
-<table align="center">
-  <tr>
-    <th align="center" width="250">Plastocyanin</th>
-    <th align="center" width="250">ATP</th>
-    <th align="center" width="250">Water</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="Documentation/images/plastocyanin_SimpleSprite.png" alt="Plastocyanin" width="250">
-    </td>
-    <td align="center">
-      <img src="Documentation/images/ATP_DetailSprite.png" alt="ATP" width="250">
-    </td>
-    <td align="center">
-      <img src="Documentation/images/H2O_DetailSprite.png" alt="Water" width="250">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Plastocyanin is a small copper-containing protein that shuttles electrons between cytochrome b₆f and Photosystem I.
-      It operates in the thylakoid lumen and is essential for connecting the two photosystems.
-      By carrying single electrons, plastocyanin ensures that the flow of charges remains continuous during light reactions.
-      Without plastocyanin, Photosystem I would not receive the electrons needed for NADPH formation.
-    </td>
-    <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      ATP is the universal energy currency of the cell and a direct product of the light reactions of photosynthesis.
-      It is synthesized by ATP synthase as protons flow back across the thylakoid membrane.
-      In photosynthesis, ATP provides the chemical energy required for the Calvin cycle to fix carbon dioxide.
-      Its rapid turnover makes ATP indispensable for sustaining cellular and metabolic processes.
-    </td>
-    <td align="center" style="font-size:14px; line-height:1.45; padding:10px; vertical-align:top;">
-      Water is the primary electron donor in oxygenic photosynthesis.
-      At Photosystem II’s oxygen-evolving complex, two water molecules are split to release four protons, four electrons, and one oxygen molecule.
-      The electrons replace those excited and lost from P680 chlorophyll, while the protons contribute to the lumenal proton gradient.
-      This water-splitting reaction is the source of nearly all atmospheric oxygen on Earth.
-    </td>
-  </tr>
-</table>
 
 
 
