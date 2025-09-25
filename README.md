@@ -55,7 +55,7 @@
 <br>
 <br>
 
-<h1 align="center">Glossary of simulation components </h1>
+<h1 align="center">Glossary of simulation components
 <br>
 <br>
 
