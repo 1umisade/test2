@@ -68,11 +68,11 @@
 <!-- Index -->
 
 <div align="center">
-  <div style="display:inline-block; width:700px; text-align:left;">
-    <div>Photosystem_I</div>
-    <div style="margin-left:24px;">Chlorophyll_A</div>
-    <div style="margin-left:24px;">Phylloquinone</div>
-    <div style="margin-left:24px;">[4Fe-4S]</div>
+  <div align="left">
+    <p>Photosystem_I</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;Chlorophyll_A</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;Phylloquinone</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;[4Fe-4S]</p>
   </div>
 </div>
 
