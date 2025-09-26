@@ -69,15 +69,10 @@
 
 <div align="center">
   <div style="display:inline-block; width:700px; text-align:left;">
-    <ul>
-      <li>Photosystem_I
-        <ul>
-          <li>Chlorophyll_A</li>
-          <li>Phylloquinone</li>
-          <li>[4Fe-4S]</li>
-        </ul>
-      </li>
-    </ul>
+    <div>Photosystem_I</div>
+    <div style="margin-left:24px;">Chlorophyll_A</div>
+    <div style="margin-left:24px;">Phylloquinone</div>
+    <div style="margin-left:24px;">[4Fe-4S]</div>
   </div>
 </div>
 
