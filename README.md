@@ -67,15 +67,77 @@
 
 <!-- Index -->
 
-<div align="center">
-  <div align="left">
-    <p>Photosystem_I</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;Chlorophyll_A</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;Phylloquinone</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;[4Fe-4S]</p>
-  </div>
-</div>
+Photosystem II ..................................................................................... <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Oxygen evolving complex ......................................................... <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; Plastoquinone A ............................................................................ <br><br>
 
+
+
+3-phosphoglyceric_acid (3PGA)
+
+ADP
+
+Arrow
+
+ATP
+
+ATP-synthase
+
+Battery_level_indicator
+
+Chlorophyll_A
+
+Choline_fosfolipid
+
+CO₂
+
+Cytochrome_b6f
+
+Electron
+
+Ferredoxin
+
+Ferredoxin-NADP-reductase
+
+Glyceraldehyde 3-phosphate
+
+H₂O
+
+Heme
+
+NADP
+
+O₂
+
+Oxygen-evolving_complex
+
+Pheophytin
+
+Phosphate
+
+Photon
+
+Photosystem_I
+
+Photosystem_II
+
+Phylloquinone
+
+Plastocyanin
+
+Plastoquinone
+
+Proton
+
+Proton_channel
+
+Ribose-1,5-bisphosphate
+
+Ribulose-1,5-bisphosphate (RuBP)
+
+RuBisCo
+
+Tyrosine
 
 
 
