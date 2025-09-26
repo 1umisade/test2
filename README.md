@@ -55,181 +55,31 @@
 <br>
 
 <div style="max-width:640px;margin:0 auto;text-align:left;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;">
+  <div style="font-weight:700;color:#2a5b6a;margin-bottom:6px;">Contents</div>
 
-<ul style="list-style:none;padding-left:0;margin:0;">
-
-  <li style="display:flex;align-items:baseline;">
+  <div style="display:flex;align-items:baseline;">
     <span>Photosystem_I</span>
     <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
     <span>1</span>
-  </li>
-  <ul style="list-style:none;margin:4px 0 0 20px;padding:0;">
-    <li style="display:flex;align-items:baseline;">
-      <span>Chlorophyll_A</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-    <li style="display:flex;align-items:baseline;">
-      <span>Phylloquinone</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-    <li style="display:flex;align-items:baseline;">
-      <span>[4Fe-4S]</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-  </ul>
+  </div>
 
-  <li style="display:flex;align-items:baseline;margin-top:6px;">
-    <span>Photosystem_II</span>
+  <div style="padding-left:20px;display:flex;align-items:baseline;">
+    <span>Chlorophyll_A</span>
     <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
     <span>1</span>
-  </li>
-  <ul style="list-style:none;margin:4px 0 0 20px;padding:0;">
-    <li style="display:flex;align-items:baseline;">
-      <span>Chlorophyll_A</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-    <li style="display:flex;align-items:baseline;">
-      <span>Pheophytin</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-    <li style="display:flex;align-items:baseline;">
-      <span>Plastoquinone A</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-    <li style="display:flex;align-items:baseline;">
-      <span>Oxygen evolving complex</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-    <li style="display:flex;align-items:baseline;">
-      <span>Tyrosine</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-  </ul>
-
-  <li style="display:flex;align-items:baseline;margin-top:6px;">
-    <span>Cytochrome_b6f</span>
+  </div>
+  <div style="padding-left:20px;display:flex;align-items:baseline;">
+    <span>Phylloquinone</span>
     <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>2</span>
-  </li>
-  <ul style="list-style:none;margin:4px 0 0 20px;padding:0;">
-    <li style="display:flex;align-items:baseline;">
-      <span>Heme</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>2</span>
-    </li>
-    <li style="display:flex;align-items:baseline;">
-      <span>[2Fe-2S]</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>2</span>
-    </li>
-  </ul>
-
-  <li style="display:flex;align-items:baseline;margin-top:6px;">
-    <span>ATP-synthase</span>
+    <span>1</span>
+  </div>
+  <div style="padding-left:20px;display:flex;align-items:baseline;">
+    <span>[4Fe-4S]</span>
     <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>2</span>
-  </li>
-  <ul style="list-style:none;margin:4px 0 0 20px;padding:0;">
-    <li style="display:flex;align-items:baseline;">
-      <span>Proton_channel</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>2</span>
-    </li>
-  </ul>
+    <span>1</span>
+  </div>
 
-  <li style="display:flex;align-items:baseline;margin-top:6px;">
-    <span>Ferredoxin</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>3</span>
-  </li>
-  <ul style="list-style:none;margin:4px 0 0 20px;padding:0;">
-    <li style="display:flex;align-items:baseline;">
-      <span>[2Fe-2S]</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>3</span>
-    </li>
-  </ul>
-
-  <li style="display:flex;align-items:baseline;margin-top:6px;">
-    <span>ferredoxin-NADP-reductase</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>3</span>
-  </li>
-  <li style="display:flex;align-items:baseline;">
-    <span>Plastocyanin</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>3</span>
-  </li>
-  <li style="display:flex;align-items:baseline;">
-    <span>RuBisCo</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>3</span>
-  </li>
-
-  <li style="display:flex;align-items:baseline;margin-top:6px;">
-    <span>Membrane / lipid</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>4</span>
-  </li>
-  <ul style="list-style:none;margin:4px 0 0 20px;padding:0;">
-    <li style="display:flex;align-items:baseline;">
-      <span>Choline_fosfolipid</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>4</span>
-    </li>
-  </ul>
-
-  <li style="display:flex;align-items:baseline;margin-top:6px;">
-    <span>Small molecules &amp; carriers</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>5</span>
-  </li>
-  <ul style="list-style:none;margin:4px 0 0 20px;padding:0;">
-    <li style="display:flex;align-items:baseline;"><span>ATP</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>ADP</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>NADP</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>Phosphate</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>3-phosphoglyceric_acid (3PGA)</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>Glyceraldehyde 3-phosphate</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>ribulose-1,5-bisphosphate (RuBP)</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>Ribose-1,5-bisphosphate</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>CO2</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>H2O</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>O2</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>Electron</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>Proton</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-    <li style="display:flex;align-items:baseline;"><span>Photon</span><span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span><span>5</span></li>
-  </ul>
-
-  <li style="display:flex;align-items:baseline;margin-top:6px;">
-    <span>Utility / UI (not biological structure)</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>6</span>
-  </li>
-  <ul style="list-style:none;margin:4px 0 0 20px;padding:0;">
-    <li style="display:flex;align-items:baseline;">
-      <span>Arrow</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>6</span>
-    </li>
-    <li style="display:flex;align-items:baseline;">
-      <span>Battery_level_indicator</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>6</span>
-    </li>
-  </ul>
-
-</ul>
-
-
+  <!-- repeat blocks; increase padding-left (e.g., 40px) for deeper levels -->
 </div>
 
 
