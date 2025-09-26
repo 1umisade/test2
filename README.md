@@ -68,7 +68,7 @@
 <!-- Index -->
 
 <img src="Documentation/images/ATP_DetailSprite.png" alt="icon" height="30"> Photosystem I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Chlorophyll A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/ATP_DetailSprite.png" alt="icon" height="30"> Chlorophyll A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Phylloquinone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> [4Fe-4S] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
