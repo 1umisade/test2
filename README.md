@@ -54,33 +54,100 @@
 <h1 align="center">Documentation</h1>
 <br>
 
-<div style="max-width:640px;margin:0 auto;text-align:left;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;">
-  <div style="font-weight:700;color:#2a5b6a;margin-bottom:6px;">Contents</div>
 
-  <div style="display:flex;align-items:baseline;">
-    <span>Photosystem_I</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>1</span>
-  </div>
 
-  <div style="padding-left:20px;display:flex;align-items:baseline;">
-    <span>Chlorophyll_A</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>1</span>
-  </div>
-  <div style="padding-left:20px;display:flex;align-items:baseline;">
-    <span>Phylloquinone</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>1</span>
-  </div>
-  <div style="padding-left:20px;display:flex;align-items:baseline;">
-    <span>[4Fe-4S]</span>
-    <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-    <span>1</span>
-  </div>
 
-  <!-- repeat blocks; increase padding-left (e.g., 40px) for deeper levels -->
+
+
+
+
+
+
+
+<!-- INDEX -->
+
+
+
+
+
+<div align="center">
+<table>
+  <tr><td colspan="3"><strong>Contents</strong></td></tr>
+
+  <tr><td>Photosystem_I</td><td>........................................</td><td>1</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chlorophyll_A</td><td>..........................................</td><td>1</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phylloquinone</td><td>..........................</td><td>1</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4Fe-4S]</td><td>............................</td><td>1</td></tr>
+
+  <tr><td>Photosystem_II</td><td>.......................................</td><td>1</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chlorophyll_A</td><td>..........................</td><td>1</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pheophytin</td><td>............................</td><td>1</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plastoquinone A</td><td>.........................</td><td>1</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oxygen evolving complex</td><td>..............</td><td>1</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tyrosine</td><td>.............................</td><td>1</td></tr>
+
+  <tr><td>Cytochrome_b6f</td><td>........................................</td><td>2</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heme</td><td>.................................</td><td>2</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2Fe-2S]</td><td>..............................</td><td>2</td></tr>
+
+  <tr><td>ATP-synthase</td><td>..........................................</td><td>2</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proton_channel</td><td>.........................</td><td>2</td></tr>
+
+  <tr><td>Ferredoxin</td><td>............................................</td><td>3</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2Fe-2S]</td><td>..............................</td><td>3</td></tr>
+
+  <tr><td>ferredoxin-NADP-reductase</td><td>.........................</td><td>3</td></tr>
+  <tr><td>Plastocyanin</td><td>..........................................</td><td>3</td></tr>
+  <tr><td>RuBisCo</td><td>..............................................</td><td>3</td></tr>
+
+  <tr><td>Membrane / lipid</td><td>......................................</td><td>4</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choline_fosfolipid</td><td>..................... </td><td>4</td></tr>
+
+  <tr><td>Small molecules &amp; carriers</td><td>......................</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATP</td><td>..................................</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADP</td><td>..................................</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NADP</td><td>.................................</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phosphate</td><td>.............................</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-phosphoglyceric_acid (3PGA)</td><td>......</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glyceraldehyde 3-phosphate</td><td>..........</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ribulose-1,5-bisphosphate (RuBP)</td><td>....</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ribose-1,5-bisphosphate</td><td>.............</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CO2</td><td>...................................</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H2O</td><td>...................................</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O2</td><td>....................................</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electron</td><td>..............................</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proton</td><td>................................</td><td>5</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Photon</td><td>................................</td><td>5</td></tr>
+
+  <tr><td>Utility / UI (not biological structure)</td><td>..........</td><td>6</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arrow</td><td>.................................</td><td>6</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Battery_level_indicator</td><td>..............</td><td>6</td></tr>
+</table>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
