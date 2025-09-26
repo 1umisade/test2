@@ -54,34 +54,20 @@
 <h1 align="center">Documentation</h1>
 <br>
 
-<div style="max-width:640px;margin:0 auto;text-align:left;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;">
-
-  <ul style="list-style:none;padding-left:0;margin:0;">
-    <li style="display:flex;align-items:baseline;">
-      <span>Photosystem_I</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-
-  <ul style="list-style:none;margin:4px 0 0 20px;padding:0;">
-    <li style="display:flex;align-items:baseline;">
-      <span>Chlorophyll_A</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-    <li style="display:flex;align-items:baseline;">
-      <span>Phylloquinone</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-    <li style="display:flex;align-items:baseline;">
-      <span>[4Fe-4S]</span>
-      <span style="flex:1;border-bottom:1px dotted #8a8a8a;margin:0 .5em;transform:translateY(-2px);"></span>
-      <span>1</span>
-    </li>
-  </ul>
-
-
+<div align="center">
+  <table width="700" border="0" cellpadding="0" cellspacing="0">
+    <tr><td align="left">
+      <ul>
+        <li>Photosystem_I
+          <ul>
+            <li>Chlorophyll_A</li>
+            <li>Phylloquinone</li>
+            <li>[4Fe-4S]</li>
+          </ul>
+        </li>
+      </ul>
+    </td></tr>
+  </table>
 </div>
 
 
