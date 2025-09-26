@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" width="975">
+      <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" width="800">
     </td>
   </tr>
 </table>
@@ -54,21 +54,42 @@
 <h1 align="center">Documentation</h1>
 <br>
 
+
+
+
+
+
+
+
+
+
+
+
+<!-- Index -->
+
 <div align="center">
-  <table width="700" border="0" cellpadding="0" cellspacing="0">
-    <tr><td align="left">
-      <ul>
-        <li>Photosystem_I
-          <ul>
-            <li>Chlorophyll_A</li>
-            <li>Phylloquinone</li>
-            <li>[4Fe-4S]</li>
-          </ul>
-        </li>
-      </ul>
-    </td></tr>
-  </table>
+  <div style="display:inline-block; width:700px; text-align:left;">
+    <ul>
+      <li>Photosystem_I
+        <ul>
+          <li>Chlorophyll_A</li>
+          <li>Phylloquinone</li>
+          <li>[4Fe-4S]</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
