@@ -101,7 +101,7 @@
 <img src="Project/Graphics/Plastocyanin/plastocyanin_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Plastocyanin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 <img src="Project/Graphics/RuBisCO/RuBisCO_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> RuBisCO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/3-phosphoglyceric_acid (3PGA)/3-phosphoglyceric_acid_(3PGA)_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> 3-phosphoglyceric acid (3PGA) . . . . . . . . . . . . . . <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/3-phosphoglyceric_acid (3PGA)/3-phosphoglyceric_acid(3PGA)_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> 3-phosphoglyceric acid (3PGA) . . . . . . . . . . . . . . <br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ribulose-1,5-bisphosphate (RuBP)/ribulose-1,5-bisphosphate_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Ribulose-1,5-bisphosphate (RuBP) . . . . . . . . . . . . . . <br><br>
 
