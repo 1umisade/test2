@@ -92,7 +92,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/2Fe-2S/2Fe-2S_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> [2Fe-2S] . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 <img src="Project/Graphics/Ferredoxin-NADP-reductase/Ferredoxin-NADP-reductase_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Ferredoxin-NADP-reductase . . . . . . . . . . . . . . <br><br>
-<img src="Project/Graphics/Plastocyanin/Plastocyanin_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Plastocyanin . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Plastocyanin/plastocyanin_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Plastocyanin . . . . . . . . . . . . . . . . . . . . . . <br><br>
 <img src="Project/Graphics/RuBisCo/RuBisCo_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> RuBisCo . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 <img src="Project/Graphics/Membrane_lipid/Membrane_lipid_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Membrane / lipid . . . . . . . . . . . . . . . . . . . <br><br>
