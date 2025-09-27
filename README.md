@@ -67,54 +67,51 @@
 
 <!-- Index -->
 
-<img src="Documentation/images/ATP_DetailSprite.png" alt="icon" height="30"> Photosystem I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/ATP_DetailSprite.png" alt="icon" height="30"> Chlorophyll A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Phylloquinone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> [4Fe-4S] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<svg width="40" height="40" viewBox="0 0 40 40" preserveAspectRatio="xMidYMid meet">
+  <image href="Project/Graphics/photosystem_I/photosystem_I_SimpleSprite.png"
+         width="40" height="40" preserveAspectRatio="xMidYMid meet" />
+</svg> Photosystem I . . . . . .
 
-<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Photosystem II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Chlorophyll A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Pheophytin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Plastoquinone A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Oxygen evolving complex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Tyrosine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/photosystem_II/photosystem_II_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Photosystem II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Chlorophyll_A/Chlorophyll_A_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Chlorophyll A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Pheophytin/Pheophytin_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Pheophytin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Plastoquinone_A/Plastoquinone_A_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Plastoquinone A . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Oxygen_evolving_complex/Oxygen_evolving_complex_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Oxygen evolving complex . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Tyrosine/Tyrosine_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Tyrosine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
-<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Cytochrome b6f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Heme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> [2Fe-2S] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Cytochrome_b6f/Cytochrome_b6f_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Cytochrome b6f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Heme/Heme_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Heme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/2Fe-2S/2Fe-2S_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> [2Fe-2S] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
-<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> ATP-synthase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Proton channel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/ATP-synthase/ATP-synthase_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> ATP-synthase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Proton_channel/Proton_channel_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Proton channel . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ADP/ADP_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> ADP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Phosphate/Phosphate_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Phosphate (P) . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
-<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Ferredoxin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> [2Fe-2S] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Ferredoxin/Ferredoxin_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Ferredoxin . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/2Fe-2S/2Fe-2S_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> [2Fe-2S] . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
-<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Ferredoxin-NADP-reductase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Plastocyanin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> RuBisCo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Ferredoxin-NADP-reductase/Ferredoxin-NADP-reductase_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Ferredoxin-NADP-reductase . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Plastocyanin/Plastocyanin_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Plastocyanin . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/RuBisCo/RuBisCo_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> RuBisCo . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
-<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Membrane / lipid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Choline fosfolipid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Membrane_lipid/Membrane_lipid_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Membrane / lipid . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Choline_fosfolipid/Choline_fosfolipid_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Choline fosfolipid . . . . . . . . . . . . . . . . . <br><br>
 
-<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Small molecules & carriers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> ATP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> ADP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> NADP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Phosphate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> 3-phosphoglyceric acid (3PGA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Glyceraldehyde 3-phosphate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Ribulose-1,5-bisphosphate (RuBP) . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Ribose-1,5-bisphosphate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> CO₂ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> H₂O . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> O₂ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Electron . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Proton . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Photon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Small_molecules_carriers/Small_molecules_carriers_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Small molecules & carriers . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ATP/ATP_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> ATP . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/NADP/NADP_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> NADP . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/3-phosphoglyceric_acid_3PGA/3-phosphoglyceric_acid_3PGA_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> 3-phosphoglyceric acid (3PGA) . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Glyceraldehyde_3-phosphate/Glyceraldehyde_3-phosphate_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Glyceraldehyde 3-phosphate . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Ribulose-1,5-bisphosphate_RuBP/Ribulose-1,5-bisphosphate_RuBP_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Ribulose-1,5-bisphosphate (RuBP) . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Ribose-1,5-bisphosphate/Ribose-1,5-bisphosphate_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Ribose-1,5-bisphosphate . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/CO2/CO2_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> CO₂ . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/H2O/H2O_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> H₂O . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/O2/O2_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> O₂ . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Electron/Electron_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Electron . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Proton/Proton_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Proton . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Photon/Photon_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Photon . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
-<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Utility / UI (not biological structure) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Arrow . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Documentation/images/DetailSprite.png" alt="icon" height="20"> Battery level indicator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 
 
