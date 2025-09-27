@@ -85,29 +85,26 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/2Fe-2S/2Fe-2S_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> 2Fe-2S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
   <img src="Project/Graphics/ATP-synthase/ATP-synthase_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> ATP-synthase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ATP/ATP_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> ATP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ADP/ADP_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> ADP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Phosphate/phosphate_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Phosphate (P) . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
-<img src="Project/Graphics/ferredoxin/ferredoxin_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Ferredoxin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/2Fe-2S/2Fe-2S_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> 2Fe-2S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-
 <img src="Project/Graphics/ferredoxin-NADP-reductase/ferredoxin-NADP-reductase_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Ferredoxin-NADP-reductase . . . . . . . . . . . . . . . . . . <br><br>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ferredoxin/ferredoxin_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Ferredoxin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/NADP/NADP_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> NADP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+
 <img src="Project/Graphics/Plastocyanin/plastocyanin_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Plastocyanin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 <img src="Project/Graphics/RuBisCO/RuBisCO_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> RuBisCO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/3-phosphoglyceric_acid (3PGA)/3-phosphoglyceric_acid_(3PGA)_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> 3-phosphoglyceric acid (3PGA) . . . . . . . . . . . . . . <br><br>
 
-<img src="Project/Graphics/Small_molecules_carriers/Small_molecules_carriers_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Small molecules & carriers . . . . . . . . . . . . . . . . . . <br><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ATP/ATP_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> ATP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/NADP/NADP_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> NADP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Glyceraldehyde-3-phosphate/Glyceraldehyde-3-phosphate_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Glyceraldehyde 3-phosphate . . . . . . . . . . . . . . . <br><br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ribulose-1,5-bisphosphate (RuBP)/ribulose-1,5-bisphosphate_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Ribulose-1,5-bisphosphate (RuBP) . . . . . . . . . . . . . . <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Ribose-1,5-bisphosphate/Ribose-1,5-bisphosphate_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Ribose-1,5-bisphosphate . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/CO2/CO2_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> CO₂ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
