@@ -70,7 +70,7 @@
 <img src="Project/Graphics/Photosystem_I/photosystem_I_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Photosystem I . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Chlorophyll_A/chlorophyll_A_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Chlorophyll A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Phylloquinone/phylloquinone_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Phylloquinone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/[4Fe-4S]/[4Fe-4S]_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> [4Fe-4S] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/4Fe-4S/4Fe-4S_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> 4Fe-4S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 <img src="Project/Graphics/Photosystem_II/photosystem_II_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Photosystem II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Chlorophyll_A/chlorophyll_A_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Chlorophyll A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
@@ -93,8 +93,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/[2Fe-2S]/[2Fe-2S]_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> [2Fe-2S] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 <img src="Project/Graphics/ferredoxin-NADP-reductase/ferredoxin-NADP-reductase_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Ferredoxin-NADP-reductase . . . . . . . . . . . . . . . . . . <br><br>
-<img src="Project/Graphics/Plastocyanin/Plastocyanin_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Plastocyanin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-<img src="Project/Graphics/RuBisCO/RuBisCO_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> RuBisCO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Plastocyanin/plastocyanin_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Plastocyanin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/RuBisCO/RuBisCO_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> RuBisCo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 <img src="Project/Graphics/Membrane_lipid/membrane_lipid_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Membrane / lipid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Choline_fosfolipid/choline_phospholipid_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Choline fosfolipid . . . . . . . . . . . . . . . . . . . . . . <br><br>
