@@ -94,7 +94,7 @@
 
 <img src="Project/Graphics/ferredoxin-NADP-reductase/ferredoxin-NADP-reductase_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Ferredoxin-NADP-reductase . . . . . . . . . . . . . . . . . . <br><br>
 <img src="Project/Graphics/Plastocyanin/Plastocyanin_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Plastocyanin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-<img src="Project/Graphics/RuBisCo/RuBisCo_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> RuBisCo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/RuBisCO/RuBisCO_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> RuBisCO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 <img src="Project/Graphics/Membrane_lipid/membrane_lipid_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Membrane / lipid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Choline_fosfolipid/choline_phospholipid_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Choline fosfolipid . . . . . . . . . . . . . . . . . . . . . . <br><br>
