@@ -82,7 +82,7 @@
 
 <img src="Project/Graphics/Cytochrome_b6f/Cytochrome_b6f_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Cytochrome b6f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Heme/Heme_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Heme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/[2Fe-2S]/[2Fe-2S]_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> [2Fe-2S] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/2Fe-2S/2Fe-2S_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> 2Fe-2S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 <img src="Project/Graphics/ATP-synthase/ATP-synthase_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> ATP-synthase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Proton_channel/proton_channel_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Proton channel . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
@@ -90,7 +90,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Phosphate/phosphate_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Phosphate (P) . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 <img src="Project/Graphics/ferredoxin/ferredoxin_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Ferredoxin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/[2Fe-2S]/[2Fe-2S]_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> [2Fe-2S] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/2Fe-2S/2Fe-2S_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> 2Fe-2S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 <img src="Project/Graphics/ferredoxin-NADP-reductase/ferredoxin-NADP-reductase_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Ferredoxin-NADP-reductase . . . . . . . . . . . . . . . . . . <br><br>
 <img src="Project/Graphics/Plastocyanin/plastocyanin_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Plastocyanin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
