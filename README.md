@@ -116,7 +116,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Proton/proton_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Proton . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/photon/Photon_red.png" alt="icon" height="40" align="absmiddle"> Photon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Photon/photon_red.png" alt="icon" height="40" align="absmiddle"> Photon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 
 
