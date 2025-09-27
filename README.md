@@ -72,7 +72,7 @@
          width="40" height="40" preserveAspectRatio="xMidYMid meet" />
 </svg> Photosystem I . . . . . .
 
-<img src="Project/Graphics/photosystem_II/photosystem_II_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Photosystem II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Photosystem_II/Photosystem_II_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Photosystem II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Chlorophyll_A/Chlorophyll_A_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Chlorophyll A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Pheophytin/Pheophytin_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Pheophytin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Plastoquinone_A/Plastoquinone_A_SimpleSprite.png" alt="icon" width="40" height="40" align="absmiddle"> Plastoquinone A . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
