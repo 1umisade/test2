@@ -67,11 +67,11 @@
 
 <!-- Index -->
 
-<img src="Project/Graphics/Electron/electron_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Electron . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Electron/electron_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Electron . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
-<img src="Project/Graphics/Photon/photon_red_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Photon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Photon/photon_red_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Photon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br><br>
 
-<img src="Project/Graphics/Proton/proton_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Proton . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
+<img src="Project/Graphics/Proton/proton_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Proton . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
 
 
 <img src="Project/Graphics/Photosystem_II/photosystem_II_SimpleSprite.png" alt="icon" height="40" align="absmiddle"> Photosystem II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br><br>
