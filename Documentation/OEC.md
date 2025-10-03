@@ -1,11 +1,11 @@
 <!-- OEC.md (pure HTML) -->
 
 <!-- Three horizontal tables: Image | Description | Behavior in simulation -->
-<table width="100%" align="center" cellspacing="0" cellpadding="8" border="0">
+<table width="900" align="center" cellspacing="0" cellpadding="8" border="0">
 <tr>
   <!-- 1) IMAGE (left) -->
-  <td width="33%" valign="top">
-    <table width="100%" cellspacing="0" cellpadding="8" border="1">
+  <td width="300" valign="top">
+    <table width="300" cellspacing="0" cellpadding="8" border="1">
       <tr>
         <th align="left">Oxygen-evolving complex (OEC)</th>
       </tr>
@@ -20,8 +20,8 @@
   </td>
 
   <!-- 2) DESCRIPTION (middle) -->
-  <td width="34%" valign="top">
-    <table width="100%" cellspacing="0" cellpadding="8" border="1">
+  <td width="300" valign="top">
+    <table width="300" cellspacing="0" cellpadding="8" border="1">
       <tr>
         <th align="left">Description</th>
       </tr>
@@ -48,8 +48,8 @@
   </td>
 
   <!-- 3) BEHAVIOR IN SIMULATION (right) -->
-  <td width="33%" valign="top">
-    <table width="100%" cellspacing="0" cellpadding="8" border="1">
+  <td width="300" valign="top">
+    <table width="300" cellspacing="0" cellpadding="8" border="1">
       <tr>
         <th align="left">Behavior in Simulation</th>
       </tr>
