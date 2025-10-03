@@ -4,123 +4,194 @@
 
 <!-- TOP ROW: Left = OEC image (240) | Right = Areas & States (480) -->
 <tr>
-  <!-- Left: OEC image -->
-  <td width="240" valign="top">
-    <table width="240" cellspacing="0" cellpadding="6" border="0">
-      <tr>
-        <td width="240"><b>Oxygen-evolving complex (OEC)</b></td>
-      </tr>
-      <tr>
-        <td align="center" width="240">
-          <img
-            src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
-            alt="Oxygen-evolving complex (OEC)"
-            height="180"
-          />
-          <div><small>&nbsp;</small></div>
-        </td>
-      </tr>
-    </table>
-  </td>
+<!-- Left: OEC image -->
+<td width="240" valign="top">
+<table width="240" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td width="240"><b>Oxygen-evolving complex (OEC)</b></td>
+</tr>
+<tr>
+<td align="center" width="240">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="Oxygen-evolving complex (OEC)"
+height="180"
+/>
+<div><small>&nbsp;</small></div>
+</td>
+</tr>
+</table>
+</td>
 
-  <!-- Right: Areas & States -->
-  <td width="480" valign="top" colspan="2">
-    <table width="480" cellspacing="0" cellpadding="6" border="0">
-      <tr>
-        <td width="480"><b>Areas &amp; States</b></td>
-      </tr>
-      <tr>
-        <td align="center" width="480">
-          <img
-            src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_Documentation_Tree.png"
-            alt="OEC — Areas &amp; States"
-            height="180"
-          />
-          <div>
-            <small>Note: Pulling_area is not visible here as it is a large circle that does not fit the image here</small>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </td>
+<!-- Right: Areas & States -->
+<td width="480" valign="top" colspan="2">
+<table width="480" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td width="480"><b>Areas &amp; States</b></td>
+</tr>
+<tr>
+<td align="center" width="480">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_Documentation_Tree.png"
+alt="OEC — Areas &amp; States"
+height="180"
+/>
+<div>
+<small>Note: Pulling_area is not visible here as it is a large circle that does not fit the image here</small>
+</div>
+</td>
+</tr>
+</table>
+</td>
 </tr>
 
 <!-- DESCRIPTION (full width = 720) -->
 <tr>
-  <td colspan="3" valign="top" width="720">
-    <table width="720" cellspacing="0" cellpadding="6" border="0">
-      <tr>
-        <td width="720"><b>Description</b></td>
-      </tr>
-      <tr>
-        <td width="720">
-          <p>
-            The Oxygen-evolving complex (OEC), also called the water-splitting complex,
-            is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of Photosystem&nbsp;II (PSII).
-            It oxidizes water, releasing molecular oxygen, protons, and electrons that
-            feed the PSII electron transfer chain.
-          </p>
-          <p><b>Overall reaction:</b> <code>2 H₂O → O₂ + 4 H⁺ + 4 e⁻</code></p>
-          <p>
-            The OEC advances through the Kok S-state cycle
-            (S<sub>0</sub>→S<sub>1</sub>→S<sub>2</sub>→S<sub>3</sub>→S<sub>4</sub>→S<sub>0</sub>),
-            driven by four successive PSII charge-separation events (photons). Electrons
-            are transferred via the redox-active tyrosine (Y<sub>Z</sub>) to P680<sup>+</sup>.
-          </p>
-        </td>
-      </tr>
-    </table>
-  </td>
+<td colspan="3" valign="top" width="720">
+<table width="720" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td width="720"><b>Description</b></td>
+</tr>
+<tr>
+<td width="720">
+<p>
+The Oxygen-evolving complex (OEC), also called the water-splitting complex,
+is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of Photosystem&nbsp;II (PSII).
+It oxidizes water, releasing molecular oxygen, protons, and electrons that
+feed the PSII electron transfer chain.
+</p>
+<p><b>Overall reaction:</b> <code>2 H₂O → O₂ + 4 H⁺ + 4 e⁻</code></p>
+</td>
+</tr>
+</table>
+</td>
 </tr>
 
-<!-- BEHAVIOR (full width = 720) -->
+<!-- BEHAVIOR (full width = 720, expanded to match code; no bullets) -->
 <tr>
-  <td colspan="3" valign="top" width="720">
-    <table width="720" cellspacing="0" cellpadding="6" border="0">
-      <tr>
-        <td width="720"><b>Behavior in Simulation</b></td>
-      </tr>
-      <tr>
-        <td width="720">
-          <ul>
-            <li><b>Inputs:</b> 4 PSII photon events; 2 × H₂O entities available.</li>
-            <li><b>Outputs:</b> 1 × O₂ entity, 4 × H⁺ entities, 4 e⁻ to PSII chain.</li>
-            <li><b>Progression:</b> Each PSII photon advances the OEC S-state by +1.</li>
-            <li><b>Trigger:</b> At S<sub>4</sub>, consume 2 H₂O, spawn 1 O₂, emit 4 H⁺ to lumen,
-                deliver 4 e⁻ toward P680/Pheophytin, then reset to S<sub>0</sub>.</li>
-            <li><b>Counts/UI:</b> Increment O₂ and H⁺ counters; decrement H₂O by 2.</li>
-            <li><b>Failure case:</b> If H₂O &lt; 2 at S<sub>4</sub>, wait until available.</li>
-            <li><b>Placement:</b> Lumen-facing; proton spawn direction upward.</li>
-          </ul>
-          <p><b>Pseudo-event flow:</b></p>
-          <pre>for each PSII_photon:
-OEC.advance_S_state()
-if OEC.at_S4() and H2O &gt;= 2:
-  consume(2 × H2O)
-  spawn(1 × O2)
-  spawn(4 × H+)
-  deliver_electrons(4)
-  OEC.reset_to_S0()</pre>
-        </td>
-      </tr>
-    </table>
-  </td>
+<td colspan="3" valign="top" width="720">
+<table width="720" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td width="720"><b>Behavior in Simulation</b></td>
 </tr>
+<tr>
+<td width="720">
+
+  <p><b>Regions &amp; signals:</b> The OEC exposes two <code>Area2D</code> regions:
+  <code>Pulling_area</code> (outer) and <code>Center</code> (inner). Signals
+  <code>body_entered</code>/<code>body_exited</code> are wired to
+  <code>body_entered_Water_pulling_area</code>, <code>body_entered_OEC_center</code>, etc.</p>
+
+  <p><b>Water attraction (outer area):</b> When an H<sub>2</sub>O enters
+  <code>Pulling_area</code>, it is added to
+  <code>bodies_that_entered_Water_pulling_area</code> for 3&nbsp;s.
+  Every frame, <code>pulling_of_water_to_OEC_center()</code> gently steers those
+  water bodies toward the OEC using a LERP of strength ~0.05 toward the area’s
+  center (<code>body.direction = lerp(...)</code>).</p>
+
+  <p><b>Electron attraction:</b> Electrons in
+  <code>electrons_that_are_pulled_to_OEC_center</code> are steered toward the OEC
+  (LERP ~0.55 with slight horizontal jitter) by
+  <code>pulling_of_electrons_to_OEC()</code>.
+  When such an electron crosses the <code>Center</code>, it is added to
+  <code>electrons_inside_OEC_center</code> and <code>OEC_is_electronised</code> is set true.</p>
+
+  <p><b>Locking two waters at the center:</b> When an H<sub>2</sub>O reaches
+  <code>Center</code>, OEC locks it into the first free slot
+  (<code>first_H2O</code> then <code>second_H2O</code>):
+  physics is paused, the body’s <code>CollisionShape2D</code> is disabled, an
+  internal collision shape “copy” is added, and an offset is tracked so the
+  body is smoothly lerped onto its anchor sprites
+  (<code>first_H2O_PositionSprite</code>, <code>second_H2O_PositionSprite</code>).
+  Locking invokes <code>releasing_of_electrons_from_OEC()</code>.</p>
+
+
+  <p><b>Electron handoff to Tyrosine gate:</b>
+  If at least one electron sits inside the OEC and the Tyrosine queue is free
+  (<code>electrons_that_are_pulled_to_tyrosine_center.size() &lt; 1</code>),
+  the first electron is moved from the OEC lists to
+  <code>electrons_that_are_pulled_to_tyrosine_center</code>. This prevents
+  multiple electrons stacking at Tyrosine. The handoff then triggers
+  <code>delectronation_of_water()</code>.</p>
+
+  <p><b>Stepwise water de-electronation (H<sub>2</sub>O → OH → O):</b>
+  For each bound water, <code>delectronation_of_water()</code> performs a
+  two-step sequence. At each step it spawns one electron near the corresponding
+  position sprite and appends it to <code>electrons_that_are_pulled_to_OEC_center</code>;
+  spawns one proton near that position sprite and increments the UI proton counter;
+  then toggles the water’s sprite state (first
+  <code>H2O_SimpleSprite → OH_SimpleSprite</code>, then
+  <code>OH_SimpleSprite → O_SimpleSprite</code>). Across both waters this yields
+  two electrons and two protons per water (four of each total), matching the overall
+  chemistry over four PSII events.</p>
+
+  <p><b>Releasing the O atoms (forming O<sub>2</sub>):</b>
+  When both locked bodies display <code>O_SimpleSprite</code>, the OEC temporarily
+  disables <code>Center</code> and <code>Pulling_area</code> monitoring, re-enables
+  physics and collisions on the two locked bodies, moves them from group
+  <code>"H2O"</code> to <code>"O"</code>, and frees the internal collision shape copies.
+  After 1&nbsp;s, monitoring is re-enabled. A background routine
+  <code>_pulling_of_singlet_Os_to_each_other()</code> (LERP ~0.05) then attracts
+  single O atoms to their nearest neighbors so they meet and visually represent O<sub>2</sub>.
+  (If you maintain an O<sub>2</sub> counter, increment it when the pair criteria are met.)</p>
+
+  <p><b>Continuous positioning:</b> While locked,
+  <code>_lerping_of_locked_particles_to_OEC()</code> lerps each water toward its
+  anchor using <code>LOCKING_LERP</code> each frame, keeping visuals tight.</p>
+
+  <p><b>Pseudo-event flow (code-aligned):</b></p>
+  <pre>on body_entered(Pulling_area) where body ∈ H2O:
+remember body for 3 s (gentle pull toward center)
+
+on body_entered(Center):
+if slot1 free and body ∈ H2O: lock as first_H2O; releasing_of_electrons_from_OEC()
+elif slot2 free and body ∈ H2O: lock as second_H2O; releasing_of_electrons_from_OEC()
+elif body ∈ electron and body was being pulled to OEC:
+electrons_inside_OEC_center += body; OEC_is_electronised = true; releasing_of_electrons_from_OEC()
+
+func releasing_of_electrons_from_OEC():
+if electrons_inside_OEC_center not empty and tyrosine_queue &lt; 1:
+move first electron → tyrosine_queue
+delectronation_of_water()
+
+func delectronation_of_water():
+if two waters are locked and no electron currently being pulled to OEC:
+for each bound water (first then second):
+if state == H2O: spawn 1 e⁻ + 1 H⁺; switch → OH
+elif state == OH: spawn 1 e⁻ + 1 H⁺; switch → O
+if both display O: _releasing_of_locked_particles_from_OEC()
+
+func _releasing_of_locked_particles_from_OEC():
+temporarily disable monitoring; free shape copies;
+convert both bodies to group "O"; re-enable physics/collisions; after 1 s re-enable monitoring
+
+every frame:
+pulling_of_electrons_to_OEC()   # LERP 0.55
+pulling_of_water_to_OEC_center()# LERP 0.05
+_lerping_of_locked_particles_to_OEC()
+_pulling_of_singlet_Os_to_each_other() # LERP 0.05</pre>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
 
 <!-- SCRIPT LINK (full width = 720) -->
 <tr>
-  <td colspan="3" valign="top" width="720">
-    <table width="720" cellspacing="0" cellpadding="6" border="0">
-      <tr>
-        <td width="720"><b>Script</b></td>
-      </tr>
-      <tr>
-        <td width="720">
-          <a href="../Project/Scripts/OEC.gd" target="_blank" rel="noopener noreferrer">View the OEC.gd script →</a>
-        </td>
-      </tr>
-    </table>
-  </td>
+<td colspan="3" valign="top" width="720">
+<table width="720" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td width="720"><b>Script</b></td>
+</tr>
+<tr>
+<td width="720">
+<a href="../Project/Scripts/OEC.gd" target="_blank" rel="noopener noreferrer">View the OEC.gd script →</a>
+</td>
+</tr>
+</table>
+</td>
 </tr>
 
 </table>
