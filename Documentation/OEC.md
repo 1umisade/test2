@@ -1,59 +1,46 @@
-<!-- OEC.md (pure HTML, fixed widths, minimal lines) -->
+<!-- OEC.md (pure HTML, images row + two full-width tables; images same height, NO OUTER BORDER) -->
 
-<table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
-
-<!-- TOP ROW: Left = OEC image (240) | Right = Areas & States (480) -->
-<tr>
+<table width="720" align="center" cellspacing="0" cellpadding="6" border="0"
+      role="presentation"
+      style="border:0; outline:0; border-collapse:separate; border-spacing:0; box-shadow:none; background:transparent;">
+<!-- TOP ROW: Left = OEC image (240) | Right = Combined Areas & States (480) -->
+<tr style="border:0;">
   <!-- Left: OEC image -->
-  <td width="240" valign="top">
-    <table width="240" cellspacing="0" cellpadding="6" border="0">
+  <td width="240" valign="top" style="border:0; padding:6px;">
+    <table width="240" cellspacing="0" cellpadding="6" border="1">
+      <tr><th align="left">Oxygen-evolving complex (OEC)</th></tr>
       <tr>
-        <td width="240"><b>Oxygen-evolving complex (OEC)</b></td>
-      </tr>
-      <tr>
-        <td align="center" width="240">
-          <img
-            src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
-            alt="Oxygen-evolving complex (OEC)"
-            height="180"
-          />
-          <div><small>&nbsp;</small></div>
+        <td align="center">
+          <img src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+                alt="Oxygen-evolving complex (OEC)" height="180" />
+          <div><small></small></div>
         </td>
       </tr>
     </table>
   </td>
 
-  <!-- Right: Areas & States -->
-  <td width="480" valign="top" colspan="2">
-    <table width="480" cellspacing="0" cellpadding="6" border="0">
+  <!-- Right: Areas & States (wider image) -->
+  <td width="480" valign="top" colspan="2" style="border:0; padding:6px;">
+    <table width="480" cellspacing="0" cellpadding="6" border="1">
+      <tr><th align="left">Areas &amp; States</th></tr>
       <tr>
-        <td width="480"><b>Areas &amp; States</b></td>
-      </tr>
-      <tr>
-        <td align="center" width="480">
-          <img
-            src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_Documentation_Tree.png"
-            alt="OEC — Areas &amp; States"
-            height="180"
-          />
-          <div>
-            <small>Note: Pulling_area is not visible here as it is a large circle that does not fit the image here</small>
-          </div>
+        <td align="center">
+          <img src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_Documentation_Tree.png"
+                alt="OEC — Areas &amp; States" height="180" />
+          <div><small>Note: Pulling_area is not visible here as it is a large circle that does not fit the image here</small></div>
         </td>
       </tr>
     </table>
   </td>
 </tr>
 
-<!-- DESCRIPTION (full width = 720) -->
-<tr>
-  <td colspan="3" valign="top" width="720">
-    <table width="720" cellspacing="0" cellpadding="6" border="0">
+<!-- DESCRIPTION -->
+<tr style="border:0;">
+  <td colspan="3" valign="top" width="720" style="border:0; padding:6px;">
+    <table width="720" cellspacing="0" cellpadding="6" border="1">
+      <tr><th align="left" width="720">Description</th></tr>
       <tr>
-        <td width="720"><b>Description</b></td>
-      </tr>
-      <tr>
-        <td width="720">
+        <td>
           <p>
             The Oxygen-evolving complex (OEC), also called the water-splitting complex,
             is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of Photosystem&nbsp;II (PSII).
@@ -73,13 +60,11 @@
   </td>
 </tr>
 
-<!-- BEHAVIOR (full width = 720) -->
-<tr>
-  <td colspan="3" valign="top" width="720">
-    <table width="720" cellspacing="0" cellpadding="6" border="0">
-      <tr>
-        <td width="720"><b>Behavior in Simulation</b></td>
-      </tr>
+<!-- BEHAVIOR -->
+<tr style="border:0;">
+  <td colspan="3" valign="top" width="720" style="border:0; padding:6px;">
+    <table width="720" cellspacing="0" cellpadding="6" border="1">
+      <tr><th align="left" width="720">Behavior in Simulation</th></tr>
       <tr>
         <td width="720">
           <ul>
@@ -96,31 +81,28 @@
           <pre>for each PSII_photon:
 OEC.advance_S_state()
 if OEC.at_S4() and H2O &gt;= 2:
-  consume(2 × H2O)
-  spawn(1 × O2)
-  spawn(4 × H+)
-  deliver_electrons(4)
-  OEC.reset_to_S0()</pre>
+consume(2 × H2O)
+spawn(1 × O2)
+spawn(4 × H+)
+deliver_electrons(4)
+OEC.reset_to_S0()</pre>
         </td>
       </tr>
     </table>
   </td>
 </tr>
 
-<!-- SCRIPT LINK (full width = 720) -->
-<tr>
-  <td colspan="3" valign="top" width="720">
-    <table width="720" cellspacing="0" cellpadding="6" border="0">
+<!-- SCRIPT LINK -->
+<tr style="border:0;">
+  <td colspan="3" valign="top" width="720" style="border:0; padding:6px;">
+    <table width="720" cellspacing="0" cellpadding="6" border="1">
+      <tr><th align="left">Script</th></tr>
       <tr>
-        <td width="720"><b>Script</b></td>
-      </tr>
-      <tr>
-        <td width="720">
+        <td>
           <a href="../Project/Scripts/OEC.gd" target="_blank" rel="noopener noreferrer">View the OEC.gd script →</a>
         </td>
       </tr>
     </table>
   </td>
 </tr>
-
 </table>
