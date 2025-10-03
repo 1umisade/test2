@@ -1,51 +1,61 @@
-<!-- OEC.md (pure HTML, images row + two full-width tables; images same height) -->
+<!-- OEC.md (pure HTML, fixed widths; images row + two full-width tables) -->
 
 <table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
 
-<!-- TOP ROW: Left = OEC image (240) | Right = Combined Areas & States (480) -->
+<!-- TOP ROW: Left = OEC image (240) | Right = Areas & States (480) -->
 <tr>
   <!-- Left: OEC image -->
   <td width="240" valign="top">
     <table width="240" cellspacing="0" cellpadding="6" border="1">
       <tr>
-        <th align="left">Oxygen-evolving complex (OEC)</th>
+        <th align="left" width="240">Oxygen-evolving complex (OEC)</th>
       </tr>
       <tr>
-        <td align="center">
-          <img src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
-                alt="Oxygen-evolving complex (OEC)" height="180" />
-          <div><small></small></div>
+        <td align="center" width="240">
+          <img
+            src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+            alt="Oxygen-evolving complex (OEC)"
+            height="180"
+          />
+          <div><small>&nbsp;</small></div>
         </td>
       </tr>
     </table>
   </td>
 
-  <!-- Right: Areas & States (wider image) -->
+  <!-- Right: Areas & States -->
   <td width="480" valign="top" colspan="2">
     <table width="480" cellspacing="0" cellpadding="6" border="1">
       <tr>
-        <th align="left">Areas &amp; States</th>
+        <th align="left" width="480">Areas &amp; States</th>
       </tr>
       <tr>
-        <td align="center">
-          <img src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_Documentation_Tree.png"
-                alt="OEC — Areas &amp; States" height="180" />
-          <div><small>Note: Pulling_area is not visible here as it is a large circle that does not fit the image here</small></div>
+        <td align="center" width="480">
+          <img
+            src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_Documentation_Tree.png"
+            alt="OEC — Areas &amp; States"
+            height="180"
+          />
+          <div>
+            <small>
+              Note: Pulling_area is not visible here as it is a large circle that does not fit the image here
+            </small>
+          </div>
         </td>
       </tr>
     </table>
   </td>
 </tr>
 
-<!-- DESCRIPTION: separate table, full width = 720 (combined image width) -->
+<!-- DESCRIPTION (full width = 720) -->
 <tr>
-  <td colspan="3" valign="top">
+  <td colspan="3" valign="top" width="720">
     <table width="720" cellspacing="0" cellpadding="6" border="1">
       <tr>
-        <th align="left">Description</th>
+        <th align="left" width="720">Description</th>
       </tr>
       <tr>
-        <td>
+        <td width="720">
           <p>
             The Oxygen-evolving complex (OEC), also called the water-splitting complex,
             is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of Photosystem&nbsp;II (PSII).
@@ -65,15 +75,15 @@
   </td>
 </tr>
 
-<!-- BEHAVIOR: separate table, full width = 720 (combined image width) -->
+<!-- BEHAVIOR (full width = 720) -->
 <tr>
-  <td colspan="3" valign="top">
+  <td colspan="3" valign="top" width="720">
     <table width="720" cellspacing="0" cellpadding="6" border="1">
       <tr>
-        <th align="left">Behavior in Simulation</th>
+        <th align="left" width="720">Behavior in Simulation</th>
       </tr>
       <tr>
-        <td>
+        <td width="720">
           <ul>
             <li><b>Inputs:</b> 4 PSII photon events; 2 × H₂O entities available.</li>
             <li><b>Outputs:</b> 1 × O₂ entity, 4 × H⁺ entities, 4 e⁻ to PSII chain.</li>
@@ -85,35 +95,30 @@
             <li><b>Placement:</b> Lumen-facing; proton spawn direction upward.</li>
           </ul>
           <p><b>Pseudo-event flow:</b></p>
-          <pre>
-for each PSII_photon:
+          <pre>for each PSII_photon:
 OEC.advance_S_state()
-if OEC.at_S4() and H2O >= 2:
+if OEC.at_S4() and H2O &gt;= 2:
 consume(2 × H2O)
 spawn(1 × O2)
 spawn(4 × H+)
 deliver_electrons(4)
-OEC.reset_to_S0()
-          </pre>
+OEC.reset_to_S0()</pre>
         </td>
       </tr>
     </table>
   </td>
 </tr>
 
-<!-- SCRIPT LINK: separate full-width table (720) under Behavior -->
+<!-- SCRIPT LINK (full width = 720) -->
 <tr>
-  <td colspan="3" valign="top">
+  <td colspan="3" valign="top" width="720">
     <table width="720" cellspacing="0" cellpadding="6" border="1">
       <tr>
-        <th align="left">Script</th>
+        <th align="left" width="720">Script</th>
       </tr>
       <tr>
-        <td>
-          <!-- Change href to your actual repo path if different -->
-          <a href="../Project/Scripts/OEC.gd" target="_blank" rel="noopener noreferrer">
-            View the OEC.gd script →
-          </a>
+        <td width="720">
+          <a href="../Project/Scripts/OEC.gd" target="_blank" rel="noopener noreferrer">View the OEC.gd script →</a>
         </td>
       </tr>
     </table>
