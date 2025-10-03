@@ -1,4 +1,4 @@
-<!-- OEC.md (pure HTML, fixed widths; images row + two full-width tables) -->
+<!-- OEC.md (pure HTML, fixed widths, minimal lines) -->
 
 <table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
 
@@ -6,9 +6,9 @@
 <tr>
   <!-- Left: OEC image -->
   <td width="240" valign="top">
-    <table width="240" cellspacing="0" cellpadding="6" border="1">
+    <table width="240" cellspacing="0" cellpadding="6" border="0">
       <tr>
-        <th align="left" width="240">Oxygen-evolving complex (OEC)</th>
+        <td width="240"><b>Oxygen-evolving complex (OEC)</b></td>
       </tr>
       <tr>
         <td align="center" width="240">
@@ -25,9 +25,9 @@
 
   <!-- Right: Areas & States -->
   <td width="480" valign="top" colspan="2">
-    <table width="480" cellspacing="0" cellpadding="6" border="1">
+    <table width="480" cellspacing="0" cellpadding="6" border="0">
       <tr>
-        <th align="left" width="480">Areas &amp; States</th>
+        <td width="480"><b>Areas &amp; States</b></td>
       </tr>
       <tr>
         <td align="center" width="480">
@@ -37,9 +37,7 @@
             height="180"
           />
           <div>
-            <small>
-              Note: Pulling_area is not visible here as it is a large circle that does not fit the image here
-            </small>
+            <small>Note: Pulling_area is not visible here as it is a large circle that does not fit the image here</small>
           </div>
         </td>
       </tr>
@@ -50,9 +48,9 @@
 <!-- DESCRIPTION (full width = 720) -->
 <tr>
   <td colspan="3" valign="top" width="720">
-    <table width="720" cellspacing="0" cellpadding="6" border="1">
+    <table width="720" cellspacing="0" cellpadding="6" border="0">
       <tr>
-        <th align="left" width="720">Description</th>
+        <td width="720"><b>Description</b></td>
       </tr>
       <tr>
         <td width="720">
@@ -78,9 +76,9 @@
 <!-- BEHAVIOR (full width = 720) -->
 <tr>
   <td colspan="3" valign="top" width="720">
-    <table width="720" cellspacing="0" cellpadding="6" border="1">
+    <table width="720" cellspacing="0" cellpadding="6" border="0">
       <tr>
-        <th align="left" width="720">Behavior in Simulation</th>
+        <td width="720"><b>Behavior in Simulation</b></td>
       </tr>
       <tr>
         <td width="720">
@@ -98,11 +96,11 @@
           <pre>for each PSII_photon:
 OEC.advance_S_state()
 if OEC.at_S4() and H2O &gt;= 2:
-consume(2 × H2O)
-spawn(1 × O2)
-spawn(4 × H+)
-deliver_electrons(4)
-OEC.reset_to_S0()</pre>
+  consume(2 × H2O)
+  spawn(1 × O2)
+  spawn(4 × H+)
+  deliver_electrons(4)
+  OEC.reset_to_S0()</pre>
         </td>
       </tr>
     </table>
@@ -112,9 +110,9 @@ OEC.reset_to_S0()</pre>
 <!-- SCRIPT LINK (full width = 720) -->
 <tr>
   <td colspan="3" valign="top" width="720">
-    <table width="720" cellspacing="0" cellpadding="6" border="1">
+    <table width="720" cellspacing="0" cellpadding="6" border="0">
       <tr>
-        <th align="left" width="720">Script</th>
+        <td width="720"><b>Script</b></td>
       </tr>
       <tr>
         <td width="720">
