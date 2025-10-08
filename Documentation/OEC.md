@@ -1,14 +1,6 @@
-
-
 <!-- 2) TOP ROW: OEC image (left) | Description (right) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
-<!-- Title row -->
-<tr>
-<td colspan="2" align="center" width="1000" style="background-color:#111; color:white;">
-<b>Oxygen-evolving complex (OEC)</b>
-</td>
-</tr>
-
+<!-- Content row -->
 <tr>
 <!-- Left cell -->
 <td width="400" valign="top">
@@ -20,6 +12,29 @@ height="180"
 />
 </div>
 </td>
+
+<!-- Right cell: DESCRIPTION -->
+<td width="600" valign="middle" align="center">
+<div style="max-width:500px; text-align:center; margin:auto;">
+<p>
+The Oxygen-evolving complex (OEC), also called the water-splitting complex,
+is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of Photosystem&nbsp;II (PSII).
+It oxidizes water, releasing molecular oxygen, protons, and electrons that
+feed the PSII electron transfer chain.
+</p>
+<p><b>Overall reaction:</b> <code>2 H₂O → O₂ + 4 H⁺ + 4 e⁻</code></p>
+</div>
+</td>
+</tr>
+
+<!-- Title row (moved below) -->
+<tr>
+<td colspan="2" align="center" width="1000" style="background-color:#111; color:white;">
+<b>Oxygen-evolving complex (OEC)</b>
+</td>
+</tr>
+</table>
+
 
 <!-- Right cell: DESCRIPTION -->
 <td width="600" valign="middle" align="center">
