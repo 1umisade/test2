@@ -133,39 +133,3 @@ View the OEC.gd script →
 </tr>
 </table>
 
-<!-- 6) SOURCES -->
-<table width="1200" align="center" cellspacing="0" cellpadding="6" border="0">
-<tr>
-<td align="center" style="background-color:#111; color:white;">
-<b>Sources</b>
-</td>
-</tr>
-
-<tr id="source-step1">
-<td align="center">
-<img src="images/Screenshot 2025-09-04 095758.png" height="1000"><br>
-<small>Source: Plant Physiology and Development (7th ed.), p.272</small>
-</td>
-</tr>
-
-<tr id="source-step2">
-<td align="center">
-<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
-<small>Source: Plant Physiology and Development (7th ed.), p.272</small>
-</td>
-</tr>
-
-<tr id="source-step3">
-<td align="center">
-<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
-<small>Source: Plant Physiology and Development (7th ed.), p.272</small>
-</td>
-</tr>
-
-<tr id="source-step4">
-<td align="center">
-<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
-<small>Source: Plant Physiology and Development (7th ed.), p.272</small>
-</td>
-</tr>
-</table>
