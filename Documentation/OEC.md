@@ -37,7 +37,7 @@ feed the PSII electron transfer chain.
 </tr>
 </table>
 
-<!-- 3) SIMULATED BEHAVIOR (new structured version) -->
+<!-- 3) SIMULATED BEHAVIOR -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
 <!-- Title row -->
 <tr>
@@ -47,30 +47,30 @@ feed the PSII electron transfer chain.
 </tr>
 
 <tr>
-<!-- Left cell: Four vertically stacked images -->
+<!-- Left cell: Four vertically stacked images (all = title image) -->
 <td width="400" valign="top" align="center">
 <div style="margin-top:6px;">
 <img
-src=“../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png”
-alt="OEC behavior step 1"
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="OEC title image"
 height="120"
 style="display:block; margin-bottom:8px;"
 />
 <img
-src="../Project/Graphics/Oxygen-evolving_complex/OEC_Behavior_2.png"
-alt="OEC behavior step 2"
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="OEC title image"
 height="120"
 style="display:block; margin-bottom:8px;"
 />
 <img
-src="../Project/Graphics/Oxygen-evolving_complex/OEC_Behavior_3.png"
-alt="OEC behavior step 3"
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="OEC title image"
 height="120"
 style="display:block; margin-bottom:8px;"
 />
 <img
-src="../Project/Graphics/Oxygen-evolving_complex/OEC_Behavior_4.png"
-alt="OEC behavior step 4"
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="OEC title image"
 height="120"
 style="display:block;"
 />
@@ -86,10 +86,7 @@ Water molecules enter the complex, bind at specific sites, and undergo progressi
 releasing protons and electrons that feed Photosystem II.
 </p>
 
-<p>
-Each image on the left represents a major step:
-</p>
-
+<p>Each image on the left represents a major step:</p>
 <ol>
 <li><b>Step 1:</b> H<sub>2</sub>O molecules are drawn toward the OEC center through <code>Pulling_area</code>.</li>
 <li><b>Step 2:</b> Bound waters lose electrons to the manganese cluster, forming OH intermediates.</li>
@@ -98,15 +95,15 @@ Each image on the left represents a major step:
 </ol>
 
 <p>
-Each phase corresponds to one or more transitions in the <code>deelectronation_of_H2O()</code> routine,
-which spawns protons and electrons and updates molecule visuals frame by frame.
+Each phase corresponds to transitions in <code>deelectronation_of_H2O()</code>,
+which spawns protons/electrons and updates visuals frame by frame.
 </p>
 </div>
 </td>
 </tr>
 </table>
 
-<!-- 4) AREAS & STATES -->
+<!-- 4) AREAS & STATES (tree image preserved) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
 <tr>
 <td align="center" style="background-color:#111; color:white;">
@@ -140,5 +137,3 @@ View the OEC.gd script →
 </td>
 </tr>
 </table>
-
-
