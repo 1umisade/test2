@@ -1,4 +1,11 @@
-<!-- OEC.md (pure HTML, fixed widths, minimal lines) -->
+<!-- TITLE (centered) -->
+<table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
+  <tr>
+    <td align="center" width="720">
+      <b style="font-size:50px;">Oxygen-evolving complex</b>
+    </td>
+  </tr>
+</table>
 
 <table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
 
@@ -138,38 +145,6 @@ feed the PSII electron transfer chain.
   <p><b>Continuous positioning:</b> While locked,
   <code>_lerping_of_locked_particles_to_OEC()</code> lerps each water toward its
   anchor using <code>LOCKING_LERP</code> each frame, keeping visuals tight.</p>
-
-  <p><b>Pseudo-event flow (code-aligned):</b></p>
-  <pre>on body_entered(Pulling_area) where body ∈ H2O:
-remember body for 3 s (gentle pull toward center)
-
-on body_entered(Center):
-if slot1 free and body ∈ H2O: lock as first_H2O; releasing_of_electrons_from_OEC()
-elif slot2 free and body ∈ H2O: lock as second_H2O; releasing_of_electrons_from_OEC()
-elif body ∈ electron and body was being pulled to OEC:
-electrons_inside_OEC_center += body; OEC_is_electronised = true; releasing_of_electrons_from_OEC()
-
-func releasing_of_electrons_from_OEC():
-if electrons_inside_OEC_center not empty and tyrosine_queue &lt; 1:
-move first electron → tyrosine_queue
-delectronation_of_water()
-
-func delectronation_of_water():
-if two waters are locked and no electron currently being pulled to OEC:
-for each bound water (first then second):
-if state == H2O: spawn 1 e⁻ + 1 H⁺; switch → OH
-elif state == OH: spawn 1 e⁻ + 1 H⁺; switch → O
-if both display O: _releasing_of_locked_particles_from_OEC()
-
-func _releasing_of_locked_particles_from_OEC():
-temporarily disable monitoring; free shape copies;
-convert both bodies to group "O"; re-enable physics/collisions; after 1 s re-enable monitoring
-
-every frame:
-pulling_of_electrons_to_OEC()   # LERP 0.55
-pulling_of_water_to_OEC_center()# LERP 0.05
-_lerping_of_locked_particles_to_OEC()
-_pulling_of_singlet_Os_to_each_other() # LERP 0.05</pre>
 
 </td>
 </tr>
