@@ -8,9 +8,9 @@ Below are the sources grouped by topic. Each topic mirrors the four-step structu
 
 ### Step 1 – Attraction <a id="oec-step-1"></a>
 
-| Field | Value |
-|---|---|
+
 | Original statement | H₂O molecules are pulled toward the OEC through the *Pulling_area* and begin to approach the *Center*. |
+|---|---|
 | Source | *Plant Physiology and Development* (7th ed.), p.272 |
 | Author(s) | Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy |
 | Link | [See image ↓](#oec-step-1-img) |
