@@ -22,7 +22,6 @@ height="180"
 
 <!-- Right cell: DESCRIPTION -->
 <td width="600" valign="top">
-<b>Description</b>
 <div style="margin-top:6px;">
 <p>
 The Oxygen-evolving complex (OEC), also called the water-splitting complex,
