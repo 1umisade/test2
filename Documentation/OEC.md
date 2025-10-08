@@ -9,16 +9,15 @@ height="300"
 </p>
 <div align="center">
 <div style="display:inline-block; max-width:900px;"> 
-  The Oxygen-evolving complex (OEC), also called the water-splitting complex, is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of 
-  Photosystem II. It oxidizes water, releasing molecular oxygen, protons, and electrons that feed the PSII electron transfer chain. 
+The Oxygen-evolving complex (OEC), also called the water-splitting complex, is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of 
+Photosystem II. It oxidizes water, releasing molecular oxygen, protons, and electrons that feed the PSII electron transfer chain. 
 </div> 
 </div>
 
-
 <p align="center"><b>Overall reaction:</b> <code>2 H₂O → O₂ + 4 H⁺ + 4 e⁻</code></p>
 
-<br>
-<br>
+<br><br>
+
 <!-- 3) SIMULATED BEHAVIOR (four stacked rows; each row = image left, text right) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
 <!-- Title row (only here) -->
@@ -38,7 +37,16 @@ height="140"
 />
 </td>
 <td width="600" valign="middle">
-</details> Protons then flow through ATP-synthase which enables the enzyme to create ATP. <details style="display:inline;"> <summary style="display:inline; cursor:pointer;">🔎</summary> <img src="images/Screenshot 2025-09-04 095758.png" height="250"><br> <small>Source: Plant physiology and development (7th edition) (page 272)</small><br> </details> <br><br>
+<p>
+<b>Step&nbsp;1 – Attraction:</b> H<sub>2</sub>O molecules are pulled toward the OEC through
+<code>Pulling_area</code> and begin to approach the <code>Center</code>.
+<!-- source reveal -->
+<details style="display:inline;">
+<summary style="display:inline; cursor:pointer;">🔎</summary>
+<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
+<small>Source: Plant physiology and development (7th edition) (page 272)</small><br>
+</details>
+</p>
 </td>
 </tr>
 
@@ -52,8 +60,16 @@ height="140"
 />
 </td>
 <td width="600" valign="middle">
-<p><b>Step&nbsp;2 – Locking:</b> Two waters reach the <code>Center</code>, pause physics, disable their
-colliders, and smoothly lock to anchor positions.</p>
+<p>
+<b>Step&nbsp;2 – Locking:</b> Two waters reach the <code>Center</code>, pause physics, disable their
+colliders, and smoothly lock to anchor positions.
+<!-- source reveal -->
+<details style="display:inline;">
+<summary style="display:inline; cursor:pointer;">🔎</summary>
+<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
+<small>Source: Plant physiology and development (7th edition) (page 272)</small><br>
+</details>
+</p>
 </td>
 </tr>
 
@@ -67,8 +83,16 @@ height="140"
 />
 </td>
 <td width="600" valign="middle">
-<p><b>Step&nbsp;3 – Oxidation:</b> The routine <code>deelectronation_of_H2O()</code> runs in two steps per water
-(H<sub>2</sub>O→OH→O), spawning electrons to the chain and protons to the lumen.</p>
+<p>
+<b>Step&nbsp;3 – Oxidation:</b> The routine <code>deelectronation_of_H2O()</code> runs in two steps per water
+(H<sub>2</sub>O→OH→O), spawning electrons to the chain and protons to the lumen.
+<!-- source reveal -->
+<details style="display:inline;">
+<summary style="display:inline; cursor:pointer;">🔎</summary>
+<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
+<small>Source: Plant physiology and development (7th edition) (page 272)</small><br>
+</details>
+</p>
 </td>
 </tr>
 
@@ -82,13 +106,19 @@ height="140"
 />
 </td>
 <td width="600" valign="middle">
-<p><b>Step&nbsp;4 – Release:</b> When both sites show O, monitoring resumes, atoms are freed as “O” bodies,
-and nearby O’s are gently steered together to visualize O<sub>2</sub> formation.</p>
+<p>
+<b>Step&nbsp;4 – Release:</b> When both sites show O, monitoring resumes, atoms are freed as “O” bodies,
+and nearby O’s are gently steered together to visualize O<sub>2</sub> formation.
+<!-- source reveal -->
+<details style="display:inline;">
+<summary style="display:inline; cursor:pointer;">🔎</summary>
+<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
+<small>Source: Plant physiology and development (7th edition) (page 272)</small><br>
+</details>
+</p>
 </td>
 </tr>
 </table>
-
-
 
 <!-- 4) AREAS & STATES (tree image preserved) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
