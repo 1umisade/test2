@@ -1,3 +1,5 @@
+<!-- 1) TITLE -->
+<h1 align="center">Oxygen-evolving complex</h1>
 
 <!-- 2) TOP ROW: OEC image (left) | Description (right) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
@@ -20,9 +22,9 @@ height="180"
 </div>
 </td>
 
-<!-- Right cell: DESCRIPTION -->
-<td width="600" valign="top">
-<div style="margin-top:6px;">
+<!-- Right cell: DESCRIPTION (centered content) -->
+<td width="600" valign="middle" align="center">
+<div style="max-width:500px; text-align:center; margin:auto;">
 <p>
 The Oxygen-evolving complex (OEC), also called the water-splitting complex,
 is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of Photosystem&nbsp;II (PSII).
@@ -35,59 +37,27 @@ feed the PSII electron transfer chain.
 </tr>
 </table>
 
-
-<!-- 4) BEHAVIOR -->
+<!-- 3) SIMULATED BEHAVIOR (empty content, only title row) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
-<tr><td><b>Simulated behavior</b></td></tr>
 <tr>
-<td>
-<p><b>Regions &amp; signals:</b> The OEC exposes two <code>Area2D</code> regions:
-<code>Pulling_area</code> (outer) and <code>Center</code> (inner). Signals
-<code>body_entered</code>/<code>body_exited</code> are wired to
-<code>body_entered_Water_pulling_area</code>, <code>body_entered_OEC_center</code>, etc.</p>
-
-<p><b>Water attraction (outer area):</b> When an H<sub>2</sub>O enters
-<code>Pulling_area</code>, it is added to
-<code>bodies_that_entered_Water_pulling_area</code> for 3&nbsp;s.
-Every frame, <code>pulling_of_water_to_OEC_center()</code> gently steers those
-water bodies toward the OEC using a LERP of ~0.05 toward the area’s center.</p>
-
-<p><b>Electron attraction:</b> Electrons in
-<code>electrons_that_are_pulled_to_OEC_center</code> are steered toward the OEC
-(LERP ~0.55 with slight horizontal jitter) by
-<code>pulling_of_electrons_to_OEC()</code>.
-On crossing <code>Center</code>, they move to
-<code>electrons_inside_OEC_center</code> and set <code>OEC_is_electronised = true</code>.</p>
-
-<p><b>Locking two waters at the center:</b> When an H<sub>2</sub>O reaches
-<code>Center</code>, it locks into the first free slot (then the second):
-physics paused, <code>CollisionShape2D</code> disabled, a collision “copy” is added,
-and the body lerps onto its anchor sprite.</p>
-
-<p><b>Electron handoff to Tyrosine gate:</b>
-If at least one electron is inside the OEC and the Tyrosine queue is free
-(<code>electrons_that_are_pulled_to_tyrosine_center.size() &lt; 1</code>),
-an electron is moved to that queue, then <code>delectronation_of_water()</code> runs.</p>
-
-<p><b>Stepwise water de-electronation (H<sub>2</sub>O → OH → O):</b>
-Each step spawns one electron and one proton near the position sprite, toggling
-sprites from H<sub>2</sub>O → OH → O. Across both waters this yields four e⁻ and four H⁺ in total.</p>
-
-<p><b>Releasing the O atoms (forming O<sub>2</sub>):</b>
-Once both show <code>O_SimpleSprite</code>, monitoring pauses, physics/collisions are restored,
-groups switch from <code>"H2O"</code> to <code>"O"</code>, and the copies are freed.
-A background routine then gently attracts O atoms so they meet (visual O<sub>2</sub>).</p>
-
-<p><b>Continuous positioning:</b> While locked,
-<code>_lerping_of_locked_particles_to_OEC()</code> lerps each water toward its anchor
-using <code>LOCKING_LERP</code> each frame.</p>
+<td align="center" style="background-color:#111; color:white;">
+<b>Simulated behavior</b>
+</td>
+</tr>
+<tr>
+<td align="center" height="80">
+<i>(Content intentionally omitted)</i>
 </td>
 </tr>
 </table>
 
-<!-- 3) AREAS & STATES (moved here, replacing the old Description table) -->
+<!-- 4) AREAS & STATES -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
-<tr><td><b>Areas &amp; States</b></td></tr>
+<tr>
+<td align="center" style="background-color:#111; color:white;">
+<b>Areas &amp; States</b>
+</td>
+</tr>
 <tr>
 <td align="center">
 <img
@@ -102,10 +72,16 @@ height="180"
 
 <!-- 5) SCRIPT LINK -->
 <table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
-<tr><td><b>Script</b></td></tr>
 <tr>
-<td>
-<a href="../Project/Scripts/OEC.gd" target="_blank" rel="noopener noreferrer">View the OEC.gd script →</a>
+<td align="center" style="background-color:#111; color:white;">
+<b>Script</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="../Project/Scripts/OEC.gd" target="_blank" rel="noopener noreferrer">
+View the OEC.gd script →
+</a>
 </td>
 </tr>
 </table>
