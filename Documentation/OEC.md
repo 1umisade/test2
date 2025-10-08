@@ -1,10 +1,17 @@
-<h1 align="center">How to control the simulation?</h1>
-
-<!-- 2) TOP ROW: OEC image (left) | Areas & States (right) -->
+<!-- 1) TITLE -->
 <table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
 <tr>
+<td align="center" width="720">
+  
+</td>
+</tr>
+</table>
+
+<!-- 2) TOP ROW: OEC image (left) | Areas & States (right) -->
+<table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
+<tr>
 <!-- Left cell -->
-<td width="240" valign="top">
+<td width="400" valign="top">
   <b>Oxygen-evolving complex (OEC)</b>
   <div align="center" style="margin-top:6px;">
     <img
@@ -16,7 +23,7 @@
 </td>
 
 <!-- Right cell -->
-<td width="480" valign="top">
+<td width="600" valign="top">
   <b>Areas &amp; States</b>
   <div align="center" style="margin-top:6px;">
     <img
