@@ -1,11 +1,4 @@
-<!-- 1) TITLE -->
-<table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
-<tr>
-<td align="center" width="720">
-  <b style="font-size:20px;">Oxygen-evolving complex</b>
-</td>
-</tr>
-</table>
+<h1 align="center">How to control the simulation?</h1>
 
 <!-- 2) TOP ROW: OEC image (left) | Areas & States (right) -->
 <table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
