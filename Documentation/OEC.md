@@ -3,39 +3,39 @@
 
 <!-- 2) TOP ROW: OEC image (left) | Description (right) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
-  <!-- Title row -->
-  <tr>
-    <td colspan="2" align="center" width="1000" style="background-color:#111; color:white;">
-      <b>Oxygen-evolving complex (OEC)</b>
-    </td>
-  </tr>
+<!-- Title row -->
+<tr>
+<td colspan="2" align="center" width="1000" style="background-color:#111; color:white;">
+<b>Oxygen-evolving complex (OEC)</b>
+</td>
+</tr>
 
-  <tr>
-    <!-- Left cell -->
-    <td width="400" valign="top">
-      <div align="center" style="margin-top:6px;">
-        <img
-          src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
-          alt="Oxygen-evolving complex (OEC)"
-          height="180"
-        />
-      </div>
-    </td>
+<tr>
+<!-- Left cell -->
+<td width="400" valign="top">
+<div align="center" style="margin-top:6px;">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="Oxygen-evolving complex (OEC)"
+height="180"
+/>
+</div>
+</td>
 
-    <!-- Right cell: DESCRIPTION -->
-    <td width="600" valign="top">
-      <b>Description</b>
-      <div style="margin-top:6px;">
-        <p>
-          The Oxygen-evolving complex (OEC), also called the water-splitting complex,
-          is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of Photosystem&nbsp;II (PSII).
-          It oxidizes water, releasing molecular oxygen, protons, and electrons that
-          feed the PSII electron transfer chain.
-        </p>
-        <p><b>Overall reaction:</b> <code>2 H₂O → O₂ + 4 H⁺ + 4 e⁻</code></p>
-      </div>
-    </td>
-  </tr>
+<!-- Right cell: DESCRIPTION -->
+<td width="600" valign="top">
+<b>Description</b>
+<div style="margin-top:6px;">
+<p>
+The Oxygen-evolving complex (OEC), also called the water-splitting complex,
+is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of Photosystem&nbsp;II (PSII).
+It oxidizes water, releasing molecular oxygen, protons, and electrons that
+feed the PSII electron transfer chain.
+</p>
+<p><b>Overall reaction:</b> <code>2 H₂O → O₂ + 4 H⁺ + 4 e⁻</code></p>
+</div>
+</td>
+</tr>
 </table>
 
 <!-- 3) AREAS & STATES (moved here, replacing the old Description table) -->
