@@ -17,8 +17,8 @@ height="300"
 
 <p align="center"><b>Overall reaction:</b> <code>2 H₂O → O₂ + 4 H⁺ + 4 e⁻</code></p>
 
-
-
+<br>
+<br>
 <!-- 3) SIMULATED BEHAVIOR (four stacked rows; each row = image left, text right) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
 <!-- Title row (only here) -->
