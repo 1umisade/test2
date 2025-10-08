@@ -51,7 +51,7 @@ feed the PSII electron transfer chain.
 <td width="400" valign="top" align="center">
 <div style="margin-top:6px;">
 <img
-src="../Project/Graphics/Oxygen-evolving_complex/OEC_Behavior_1.png"
+src=“../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png”
 alt="OEC behavior step 1"
 height="120"
 style="display:block; margin-bottom:8px;"
@@ -140,3 +140,5 @@ View the OEC.gd script →
 </td>
 </tr>
 </table>
+
+
