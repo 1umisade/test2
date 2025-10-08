@@ -1,4 +1,5 @@
-
+<!-- 1) TITLE -->
+<h1 align="center">Oxygen-evolving complex</h1>
 
 <!-- 2) TOP ROW: OEC image (left) | Description (right) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
@@ -21,7 +22,7 @@ height="180"
 </div>
 </td>
 
-<!-- Right cell: DESCRIPTION (centered content) -->
+<!-- Right cell: DESCRIPTION -->
 <td width="600" valign="middle" align="center">
 <div style="max-width:500px; text-align:center; margin:auto;">
 <p>
@@ -36,16 +37,71 @@ feed the PSII electron transfer chain.
 </tr>
 </table>
 
-<!-- 3) SIMULATED BEHAVIOR (empty content, only title row) -->
+<!-- 3) SIMULATED BEHAVIOR (new structured version) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
+<!-- Title row -->
 <tr>
-<td align="center" style="background-color:#111; color:white;">
+<td colspan="2" align="center" width="1000" style="background-color:#111; color:white;">
 <b>Simulated behavior</b>
 </td>
 </tr>
+
 <tr>
-<td align="center" height="80">
-<i>(Content intentionally omitted)</i>
+<!-- Left cell: Four vertically stacked images -->
+<td width="400" valign="top" align="center">
+<div style="margin-top:6px;">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/OEC_Behavior_1.png"
+alt="OEC behavior step 1"
+height="120"
+style="display:block; margin-bottom:8px;"
+/>
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/OEC_Behavior_2.png"
+alt="OEC behavior step 2"
+height="120"
+style="display:block; margin-bottom:8px;"
+/>
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/OEC_Behavior_3.png"
+alt="OEC behavior step 3"
+height="120"
+style="display:block; margin-bottom:8px;"
+/>
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/OEC_Behavior_4.png"
+alt="OEC behavior step 4"
+height="120"
+style="display:block;"
+/>
+</div>
+</td>
+
+<!-- Right cell: Explanatory text -->
+<td width="600" valign="middle">
+<div style="max-width:540px; text-align:left; margin:auto;">
+<p>
+The simulation models the dynamic sequence of events inside the Oxygen-evolving complex (OEC).
+Water molecules enter the complex, bind at specific sites, and undergo progressive oxidation,
+releasing protons and electrons that feed Photosystem II.
+</p>
+
+<p>
+Each image on the left represents a major step:
+</p>
+
+<ol>
+<li><b>Step 1:</b> H<sub>2</sub>O molecules are drawn toward the OEC center through <code>Pulling_area</code>.</li>
+<li><b>Step 2:</b> Bound waters lose electrons to the manganese cluster, forming OH intermediates.</li>
+<li><b>Step 3:</b> Further oxidation yields O atoms ready to pair into molecular oxygen.</li>
+<li><b>Step 4:</b> O<sub>2</sub> release and restoration of the catalytic site.</li>
+</ol>
+
+<p>
+Each phase corresponds to one or more transitions in the <code>deelectronation_of_H2O()</code> routine,
+which spawns protons and electrons and updates molecule visuals frame by frame.
+</p>
+</div>
 </td>
 </tr>
 </table>
