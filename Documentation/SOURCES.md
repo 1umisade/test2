@@ -21,7 +21,7 @@ Click “↩” to return to the related step in the main OEC page.
 ---
 
 ### "Two waters reach the OEC *Center*, pause physics, disable colliders, and lock to anchor positions."
-↩ [Return to OEC](OxygenEvolvingComplex.md#oec-step-2)
+[Return ↩](OxygenEvolvingComplex.md#oec-step-2)
 
 | Source | *Plant Physiology and Development* (7th ed.), p.272 |
 |---|---|
@@ -62,4 +62,5 @@ Click “↩” to return to the related step in the main OEC page.
   <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
   <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
+
 
