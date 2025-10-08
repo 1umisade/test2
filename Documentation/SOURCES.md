@@ -14,8 +14,8 @@ Click “↩ Return to OEC” to jump back to the related step in the main page.
 | Link | [View image ↓](#oec-step-1-img) |
 
 <p align="center" id="oec-step-1-img">
-  <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
-  <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
+<img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
+<small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
 
 ---
@@ -29,8 +29,8 @@ Click “↩ Return to OEC” to jump back to the related step in the main page.
 | Link | [View image ↓](#oec-step-2-img) |
 
 <p align="center" id="oec-step-2-img">
-  <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
-  <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
+<img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
+<small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
 
 ---
@@ -44,8 +44,8 @@ Click “↩ Return to OEC” to jump back to the related step in the main page.
 | Link | [View image ↓](#oec-step-3-img) |
 
 <p align="center" id="oec-step-3-img">
-  <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
-  <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
+<img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
+<small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
 
 ---
@@ -59,6 +59,6 @@ Click “↩ Return to OEC” to jump back to the related step in the main page.
 | Link | [View image ↓](#oec-step-4-img) |
 
 <p align="center" id="oec-step-4-img">
-  <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
-  <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
+<img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
+<small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
