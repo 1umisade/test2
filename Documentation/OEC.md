@@ -108,46 +108,6 @@ and nearby O’s are gently steered together to visualize O<sub>2</sub> formatio
 </table>
 
 
-<tr>
-<!-- Left cell: Four vertically stacked images (all = title image) -->
-<td width="400" valign="top" align="center">
-<div style="margin-top:6px;">
-<img
-src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
-alt="OEC title image"
-height="120"
-style="display:block; margin-bottom:8px;"
-/>
-<img
-src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
-alt="OEC title image"
-height="120"
-style="display:block; margin-bottom:8px;"
-/>
-<img
-src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
-alt="OEC title image"
-height="120"
-style="display:block; margin-bottom:8px;"
-/>
-<img
-src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
-alt="OEC title image"
-height="120"
-style="display:block;"
-/>
-</div>
-</td>
-
-<!-- Right cell: Explanatory text -->
-<td width="600" valign="middle">
-<div style="max-width:540px; text-align:left; margin:auto;">
-<p>
-The simulation models the dynamic sequence of events inside the Oxygen-evolving complex (OEC).
-Water molecules enter the complex, bind at specific sites, and undergo progressive oxidation,
-releasing protons and electrons that feed Photosystem II.
-</p>
-</table>
 
 <!-- 4) AREAS & STATES (tree image preserved) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
