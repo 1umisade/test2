@@ -3,7 +3,7 @@
 
 <!-- One-line intro -->
 <div align="center">
-  <div style="display:inline-block>
+  <div style="display:inline-block; max-width:900px;">
     ProjectMPB is an interactive simulation of photosynthesis developed at the University of Turku.<br>
     The goal is to provide an accurate, visually rich, and accessible tool for researchers and educators<br> to observe photosynthetic processes in silico.
   </div>
