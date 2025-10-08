@@ -7,6 +7,7 @@ alt="Oxygen-evolving complex (OEC)"
 height="300"
 />
 </p>
+
 <div align="center">
 <div style="display:inline-block; max-width:900px;"> 
 The oxygen-evolving complex is an Mn<sub>4</sub>CaO<sub>5</sub> cluster within photosystem II. It is the very molecule that<br>
@@ -17,16 +18,15 @@ binds and de-electronises water to provide electrons for the photosynthetic elec
 
 <br><br>
 
-<!-- 3) SIMULATED BEHAVIOR (four stacked rows; each row = image left, text right) -->
+<!-- 3) SIMULATED BEHAVIOR -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
-<!-- Title row (only here) -->
 <tr>
-<td colspan="2" align="center" width="1000" style="background-color:#111; color:white;">
+<td colspan="2" align="center" style="background-color:#111; color:white;">
 <b>Simulated behavior</b>
 </td>
 </tr>
 
-<!-- Row 1 -->
+<!-- Step 1 -->
 <tr>
 <td width="400" valign="top" align="center">
 <img
@@ -44,7 +44,7 @@ height="140"
 </td>
 </tr>
 
-<!-- Row 2 -->
+<!-- Step 2 -->
 <tr>
 <td width="400" valign="top" align="center">
 <img
@@ -62,7 +62,7 @@ colliders, and smoothly lock to anchor positions.
 </td>
 </tr>
 
-<!-- Row 3 -->
+<!-- Step 3 -->
 <tr>
 <td width="400" valign="top" align="center">
 <img
@@ -80,7 +80,7 @@ height="140"
 </td>
 </tr>
 
-<!-- Row 4 -->
+<!-- Step 4 -->
 <tr>
 <td width="400" valign="top" align="center">
 <img
@@ -99,7 +99,7 @@ and nearby O’s are gently steered together to visualize O<sub>2</sub> formatio
 </tr>
 </table>
 
-<!-- 4) AREAS & STATES (tree image preserved) -->
+<!-- 4) AREAS & STATES -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
 <tr>
 <td align="center" style="background-color:#111; color:white;">
@@ -113,7 +113,6 @@ src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_Documen
 alt="OEC — Areas &amp; States"
 height="180"
 />
-<div><small></small></div>
 </td>
 </tr>
 </table>
@@ -134,7 +133,7 @@ View the OEC.gd script →
 </tr>
 </table>
 
-<!-- 6) SOURCES (new) -->
+<!-- 6) SOURCES -->
 <table width="1200" align="center" cellspacing="0" cellpadding="6" border="0">
 <tr>
 <td align="center" style="background-color:#111; color:white;">
@@ -142,7 +141,6 @@ View the OEC.gd script →
 </td>
 </tr>
 
-<!-- Step 1 source -->
 <tr id="source-step1">
 <td align="center">
 <img src="images/Screenshot 2025-09-04 095758.png" height="1000"><br>
@@ -150,7 +148,6 @@ View the OEC.gd script →
 </td>
 </tr>
 
-<!-- Step 2 source -->
 <tr id="source-step2">
 <td align="center">
 <img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
@@ -158,7 +155,6 @@ View the OEC.gd script →
 </td>
 </tr>
 
-<!-- Step 3 source -->
 <tr id="source-step3">
 <td align="center">
 <img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
@@ -166,7 +162,6 @@ View the OEC.gd script →
 </td>
 </tr>
 
-<!-- Step 4 source -->
 <tr id="source-step4">
 <td align="center">
 <img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
