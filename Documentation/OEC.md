@@ -1,5 +1,3 @@
-<!-- 1) TITLE -->
-<h1 align="center">Oxygen-evolving complex</h1>
 
 <!-- 2) TOP ROW: OEC image (left) | Description (right) -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
