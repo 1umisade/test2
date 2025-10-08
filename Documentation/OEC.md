@@ -3,7 +3,7 @@
 src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
 alt="Oxygen-evolving complex (OEC)"
 height="300"
-
+/>
 <!-- Text (centered, no table) -->
 <div style="max-width:700px; margin:10px auto 0; text-align:center;">
 <p>
