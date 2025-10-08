@@ -147,22 +147,6 @@ The simulation models the dynamic sequence of events inside the Oxygen-evolving 
 Water molecules enter the complex, bind at specific sites, and undergo progressive oxidation,
 releasing protons and electrons that feed Photosystem II.
 </p>
-
-<p>Each image on the left represents a major step:</p>
-<ol>
-<li><b>Step 1:</b> H<sub>2</sub>O molecules are drawn toward the OEC center through <code>Pulling_area</code>.</li>
-<li><b>Step 2:</b> Bound waters lose electrons to the manganese cluster, forming OH intermediates.</li>
-<li><b>Step 3:</b> Further oxidation yields O atoms ready to pair into molecular oxygen.</li>
-<li><b>Step 4:</b> O<sub>2</sub> release and restoration of the catalytic site.</li>
-</ol>
-
-<p>
-Each phase corresponds to transitions in <code>deelectronation_of_H2O()</code>,
-which spawns protons/electrons and updates visuals frame by frame.
-</p>
-</div>
-</td>
-</tr>
 </table>
 
 <!-- 4) AREAS & STATES (tree image preserved) -->
