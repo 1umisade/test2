@@ -39,11 +39,11 @@ height="140"
 <p>
 
 <p>
-  <b>Step&nbsp;1 – Attraction:</b> text here
   <details style="display:inline;">
-    <summary>🔎</summary>
-      <img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
-      <small>Source: Plant Physiology and Development (7th ed.) (p.272)</small>
+    <summary><b>Step 1 – Attraction:</b> text here 🔎</summary>
+      <img src="images/Screenshot 2025-09-04 095758.png" height="250">
+      <br>
+      Source: Plant Physiology and Development (7th ed.) (p.272)
   </details>
 </p>
 
