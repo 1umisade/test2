@@ -1,7 +1,4 @@
-<!-- 1) TITLE -->
-<table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
-<tr>
-<td align="center" width="720">
+<h1 align="center">How to control the simulation?</h1>
   
 </td>
 </tr>
@@ -38,7 +35,7 @@
 </table>
 
 <!-- 3) DESCRIPTION -->
-<table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
+<table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
 <tr><td><b>Description</b></td></tr>
 <tr>
 <td>
@@ -54,7 +51,7 @@
 </table>
 
 <!-- 4) BEHAVIOR -->
-<table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
+<table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
 <tr><td><b>Behavior in Simulation</b></td></tr>
 <tr>
 <td>
