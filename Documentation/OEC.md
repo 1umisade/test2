@@ -38,20 +38,6 @@ feed the PSII electron transfer chain.
 </tr>
 </table>
 
-<!-- 3) AREAS & STATES (moved here, replacing the old Description table) -->
-<table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
-<tr><td><b>Areas &amp; States</b></td></tr>
-<tr>
-<td align="center">
-<img
-src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_Documentation_Tree.png"
-alt="OEC — Areas &amp; States"
-height="180"
-/>
-<div><small></small></div>
-</td>
-</tr>
-</table>
 
 <!-- 4) BEHAVIOR -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
@@ -98,6 +84,21 @@ A background routine then gently attracts O atoms so they meet (visual O<sub>2</
 <p><b>Continuous positioning:</b> While locked,
 <code>_lerping_of_locked_particles_to_OEC()</code> lerps each water toward its anchor
 using <code>LOCKING_LERP</code> each frame.</p>
+</td>
+</tr>
+</table>
+
+<!-- 3) AREAS & STATES (moved here, replacing the old Description table) -->
+<table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
+<tr><td><b>Areas &amp; States</b></td></tr>
+<tr>
+<td align="center">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_Documentation_Tree.png"
+alt="OEC — Areas &amp; States"
+height="180"
+/>
+<div><small></small></div>
 </td>
 </tr>
 </table>
