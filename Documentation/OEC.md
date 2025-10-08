@@ -38,8 +38,7 @@ height="140"
 />
 </td>
 <td width="600" valign="middle">
-<p><b>Step&nbsp;1 – Attraction:</b> H<sub>2</sub>O molecules are pulled toward the OEC through
-<code>Pulling_area</code> and begin to approach the <code>Center</code>.</p>
+</details> Protons then flow through ATP-synthase which enables the enzyme to create ATP. <details style="display:inline;"> <summary style="display:inline; cursor:pointer;">🔎</summary> <img src="images/Screenshot 2025-09-04 095758.png" height="250"><br> <small>Source: Plant physiology and development (7th edition) (page 272)</small><br> </details> <br><br>
 </td>
 </tr>
 
