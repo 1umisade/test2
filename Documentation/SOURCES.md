@@ -1,11 +1,10 @@
 # Sources — Oxygen-Evolving Complex (OEC)
 
-Each section below corresponds to a step in the OEC simulation.  
-Click “↩” to return to the related step in the main OEC page.
+Each section below corresponds to a step in the OEC simulation.
 
 ---
 
-### "H₂O molecules are pulled toward the OEC through the *Pulling_area* and begin to approach the *Center*."
+### "H₂O molecules are pulled toward the OEC through the *Pulling_area* and begin to approach the *Center*." <a id="oec-step-1"></a> <sup>[🔗](OxygenEvolvingComplex.md#oec-step-1 "Return to OEC")</sup>
 
 | Source | *Plant Physiology and Development* (7th ed.), p.272 |
 |---|---|
@@ -16,11 +15,10 @@ Click “↩” to return to the related step in the main OEC page.
   <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
   <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
-[Return ↩](OxygenEvolvingComplex.md#oec-step-2)
+
 ---
 
-### "Two waters reach the OEC *Center*, pause physics, disable colliders, and lock to anchor positions."
-[Return ↩](OxygenEvolvingComplex.md#oec-step-2)
+### "Two waters reach the OEC *Center*, pause physics, disable colliders, and lock to anchor positions." <a id="oec-step-2"></a> <sup>[🔗](OxygenEvolvingComplex.md#oec-step-2 "Return to OEC")</sup>
 
 | Source | *Plant Physiology and Development* (7th ed.), p.272 |
 |---|---|
@@ -34,8 +32,7 @@ Click “↩” to return to the related step in the main OEC page.
 
 ---
 
-### "*deelectronation_of_H2O()* proceeds H₂O → OH → O, spawning electrons to the chain and protons to the lumen."
-↩ [Return to OEC](OxygenEvolvingComplex.md#oec-step-3)
+### "*deelectronation_of_H2O()* proceeds H₂O → OH → O, spawning electrons to the chain and protons to the lumen." <a id="oec-step-3"></a> <sup>[🔗](OxygenEvolvingComplex.md#oec-step-3 "Return to OEC")</sup>
 
 | Source | *Plant Physiology and Development* (7th ed.), p.272 |
 |---|---|
@@ -49,8 +46,7 @@ Click “↩” to return to the related step in the main OEC page.
 
 ---
 
-### "When both sites show O, monitoring resumes; atoms are released and pair to visualize O₂ formation."
-↩ [Return to OEC](OxygenEvolvingComplex.md#oec-step-4)
+### "When both sites show O, monitoring resumes; atoms are released and pair to visualize O₂ formation." <a id="oec-step-4"></a> <sup>[🔗](OxygenEvolvingComplex.md#oec-step-4 "Return to OEC")</sup>
 
 | Source | *Plant Physiology and Development* (7th ed.), p.272 |
 |---|---|
@@ -61,7 +57,3 @@ Click “↩” to return to the related step in the main OEC page.
   <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
   <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
-
-
-
-
