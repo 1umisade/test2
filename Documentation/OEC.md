@@ -1,20 +1,22 @@
+<h1 align="center">Oxygen-evolving complex (OEC)</h1>
 
+<p align="center">
 <img
 src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
 alt="Oxygen-evolving complex (OEC)"
 height="300"
-align="center"
 />
-<!-- Text (centered, no table) -->
-<div style="max-width:700px; margin:10px auto 0; text-align:center;">
-<p>
+</p>
+
+<p align="center">
 The Oxygen-evolving complex (OEC), also called the water-splitting complex,
 is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of Photosystem&nbsp;II (PSII).
 It oxidizes water, releasing molecular oxygen, protons, and electrons that
 feed the PSII electron transfer chain.
 </p>
-<p><b>Overall reaction:</b> <code>2 H₂O → O₂ + 4 H⁺ + 4 e⁻</code></p>
-</div>
+
+<p align="center"><b>Overall reaction:</b> <code>2 H₂O → O₂ + 4 H⁺ + 4 e⁻</code></p>
+
 
 
 <!-- 3) SIMULATED BEHAVIOR (four stacked rows; each row = image left, text right) -->
