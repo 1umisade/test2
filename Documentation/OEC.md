@@ -1,14 +1,4 @@
-<!-- 1) TITLE -->
-<h1 align="center">Oxygen-evolving complex</h1>
 
-<!-- 2) TOP ROW: OEC image (left) | Description (right) -->
-<table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
-<!-- Title row -->
-<tr>
-<td colspan="2" align="center" width="1000" style="background-color:#111; color:white;">
-<b>Oxygen-evolving complex (OEC)</b>
-</td>
-</tr>
 
 <tr>
 <!-- Left cell -->
