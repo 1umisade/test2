@@ -39,7 +39,7 @@ height="140"
 <p style="margin:0;">
 <b>Step&nbsp;1 – Attraction:</b> H<sub>2</sub>O molecules are pulled toward the OEC through
 <code>Pulling_area</code> and begin to approach the <code>Center</code>.
-<sup><a href="#source-step1" title="View source">🔎</a></sup>
+<a href="#source-step1" title="View source">🔎</a>
 </p>
 </td>
 </tr>
@@ -169,3 +169,4 @@ View the OEC.gd script →
 </td>
 </tr>
 </table>
+
