@@ -9,12 +9,11 @@ height="300"
 </p>
 <div align="center">
 <div style="display:inline-block; max-width:900px;"> 
-The Oxygen-evolving complex (OEC), also called the water-splitting complex, is the catalytic Mn<sub>4</sub>CaO<sub>5</sub> cluster of 
-Photosystem II. It oxidizes water, releasing molecular oxygen, protons, and electrons that feed the PSII electron transfer chain. 
+  The oxygen-evolving complex is the Mn<sub>4</sub>CaO<sub>5</sub> cluster within photosystem II. It is the very molecule that<br> binds and de-electronises water to provide electrons for the photosynthetic
+  electron transfer chain. Water de-electronation also<br> 
+  results in release of protons and O₂ inside the thylakoids.
 </div> 
 </div>
-
-<p align="center"><b>Overall reaction:</b> <code>2 H₂O → O₂ + 4 H⁺ + 4 e⁻</code></p>
 
 <br><br>
 
@@ -38,15 +37,17 @@ height="140"
 </td>
 <td width="600" valign="middle">
 <p>
-<b>Step&nbsp;1 – Attraction:</b> H<sub>2</sub>O molecules are pulled toward the OEC through
-<code>Pulling_area</code> and begin to approach the <code>Center</code>.
-<!-- source reveal -->
-<details style="display:inline;">
-<summary style="display:inline; cursor:pointer;">🔎</summary>
-<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
-<small>Source: Plant physiology and development (7th edition) (page 272)</small><br>
-</details>
+
+<p>
+  <b>Step&nbsp;1 – Attraction:</b>
+  text here
+  <details style="display:inline;">
+    <summary style="display:inline; cursor:pointer;">🔎</summary>
+      <img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
+      <small>Source: Plant Physiology and Development (7th ed.) (p.272)</small>
+  </details>
 </p>
+
 </td>
 </tr>
 
