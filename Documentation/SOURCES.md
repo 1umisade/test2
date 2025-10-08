@@ -9,9 +9,8 @@ Click “↩ Return to OEC” to jump back to the related step in the main page.
 
 [↩ Return to OEC](OxygenEvolvingComplex.md#oec-step-1)
 
-| Source | *Plant Physiology and Development* (7th ed.), p.272 |
-| Author(s) | Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy |
-| Link | [View image ↓](#oec-step-1-img) |
+**Source:** *Plant Physiology and Development* (7th ed.), p.272  
+**Author(s):** Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy
 
 <p align="center" id="oec-step-1-img">
 <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
@@ -24,9 +23,8 @@ Click “↩ Return to OEC” to jump back to the related step in the main page.
 
 [↩ Return to OEC](OxygenEvolvingComplex.md#oec-step-2)
 
-| Source | *Plant Physiology and Development* (7th ed.), p.272 |
-| Author(s) | Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy |
-| Link | [View image ↓](#oec-step-2-img) |
+**Source:** *Plant Physiology and Development* (7th ed.), p.272  
+**Author(s):** Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy
 
 <p align="center" id="oec-step-2-img">
 <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
@@ -39,26 +37,9 @@ Click “↩ Return to OEC” to jump back to the related step in the main page.
 
 [↩ Return to OEC](OxygenEvolvingComplex.md#oec-step-3)
 
-| Source | *Plant Physiology and Development* (7th ed.), p.272 |
-| Author(s) | Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy |
-| Link | [View image ↓](#oec-step-3-img) |
+**Source:** *Plant Physiology and Development* (7th ed.), p.272  
+**Author(s):** Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy
 
 <p align="center" id="oec-step-3-img">
 <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
-<small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
-</p>
-
----
-
-### When both sites show O, monitoring resumes; atoms are released and pair to visualize O₂ formation. <a id="oec-step-4"></a>
-
-[↩ Return to OEC](OxygenEvolvingComplex.md#oec-step-4)
-
-| Source | *Plant Physiology and Development* (7th ed.), p.272 |
-| Author(s) | Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy |
-| Link | [View image ↓](#oec-step-4-img) |
-
-<p align="center" id="oec-step-4-img">
-<img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
-<small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
-</p>
+<small>Source: *Plant Physiology and Development* (7th
