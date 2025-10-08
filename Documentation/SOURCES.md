@@ -1,68 +1,171 @@
-# Sources — Oxygen-Evolving Complex (OEC)
+<h1 align="center">Oxygen-evolving complex (OEC)</h1>
 
-Each section below corresponds to a step in the OEC simulation.  
-Click “↩” to return to the related step in the main OEC page.
-
----
-
-### "H₂O molecules are pulled toward the OEC through the *Pulling_area* and begin to approach the *Center*."
-
-| Source | *Plant Physiology and Development* (7th ed.), p.272 |
-|---|---|
-| Author(s) | Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy |
-| Link | [See image ↓](#oec-step-1-img) |
-
-<p align="center" id="oec-step-1-img">
-  <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
-  <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
-</p>
-[Return ↩](OxygenEvolvingComplex.md#oec-step-2)
----
-
-### "Two waters reach the OEC *Center*, pause physics, disable colliders, and lock to anchor positions."
-[Return ↩](OxygenEvolvingComplex.md#oec-step-2)
-
-| Source | *Plant Physiology and Development* (7th ed.), p.272 |
-|---|---|
-| Author(s) | Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy |
-| Link | [See image ↓](#oec-step-2-img) |
-
-<p align="center" id="oec-step-2-img">
-  <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
-  <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
+<p align="center">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="Oxygen-evolving complex (OEC)"
+height="300"
+/>
 </p>
 
----
+<div align="center">
+<div style="display:inline-block; max-width:900px;"> 
+The oxygen-evolving complex is an Mn<sub>4</sub>CaO<sub>5</sub> cluster within photosystem II. It is the very molecule that<br>
+binds and de-electronises water to provide electrons for the photosynthetic electron transfer chain.
+<br> Water de-electronation also results in release of protons and O₂ inside the thylakoids.
+</div> 
+</div>
 
-### "*deelectronation_of_H2O()* proceeds H₂O → OH → O, spawning electrons to the chain and protons to the lumen."
-↩ [Return to OEC](OxygenEvolvingComplex.md#oec-step-3)
+<br><br>
 
-| Source | *Plant Physiology and Development* (7th ed.), p.272 |
-|---|---|
-| Author(s) | Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy |
-| Link | [See image ↓](#oec-step-3-img) |
+<!-- 3) SIMULATED BEHAVIOR -->
+<table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td colspan="2" align="center" style="background-color:#111; color:white;">
+<b>Simulated behavior</b>
+</td>
+</tr>
 
-<p align="center" id="oec-step-3-img">
-  <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
-  <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
+<!-- Step 1 -->
+<tr>
+<td width="400" valign="top" align="center">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="OEC step 1"
+height="140"
+/>
+</td>
+<td width="600" valign="middle">
+<p style="margin:0;">
+<b>Step&nbsp;1 – Attraction:</b> H<sub>2</sub>O molecules are pulled toward the OEC through
+<code>Pulling_area</code> and begin to approach the <code>Center</code>.
+<sup><a href="#source-step1" title="View source">🔎</a></sup>
 </p>
+</td>
+</tr>
 
----
-
-### "When both sites show O, monitoring resumes; atoms are released and pair to visualize O₂ formation."
-↩ [Return to OEC](OxygenEvolvingComplex.md#oec-step-4)
-
-| Source | *Plant Physiology and Development* (7th ed.), p.272 |
-|---|---|
-| Author(s) | Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy |
-| Link | [See image ↓](#oec-step-4-img) |
-
-<p align="center" id="oec-step-4-img">
-  <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
-  <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
+<!-- Step 2 -->
+<tr>
+<td width="400" valign="top" align="center">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="OEC step 2"
+height="140"
+/>
+</td>
+<td width="600" valign="middle">
+<p style="margin:0;">
+<b>Step&nbsp;2 – Locking:</b> Two waters reach the <code>Center</code>, pause physics, disable their
+colliders, and smoothly lock to anchor positions.
+<sup><a href="#source-step2" title="View source">🔎</a></sup>
 </p>
+</td>
+</tr>
 
+<!-- Step 3 -->
+<tr>
+<td width="400" valign="top" align="center">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="OEC step 3"
+height="140"
+/>
+</td>
+<td width="600" valign="middle">
+<p style="margin:0;">
+<b>Step&nbsp;3 – Oxidation:</b> The routine <code>deelectronation_of_H2O()</code> runs in two steps per water
+(H<sub>2</sub>O → OH → O), spawning electrons to the chain and protons to the lumen.
+<sup><a href="#source-step3" title="View source">🔎</a></sup>
+</p>
+</td>
+</tr>
 
+<!-- Step 4 -->
+<tr>
+<td width="400" valign="top" align="center">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+alt="OEC step 4"
+height="140"
+/>
+</td>
+<td width="600" valign="middle">
+<p style="margin:0;">
+<b>Step&nbsp;4 – Release:</b> When both sites show O, monitoring resumes, atoms are freed as “O” bodies,
+and nearby O’s are gently steered together to visualize O<sub>2</sub> formation.
+<sup><a href="#source-step4" title="View source">🔎</a></sup>
+</p>
+</td>
+</tr>
+</table>
 
+<!-- 4) AREAS & STATES -->
+<table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td align="center" style="background-color:#111; color:white;">
+<b>Areas &amp; States</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_Documentation_Tree.png"
+alt="OEC — Areas &amp; States"
+height="180"
+/>
+</td>
+</tr>
+</table>
 
+<!-- 5) SCRIPT LINK -->
+<table width="720" align="center" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td align="center" style="background-color:#111; color:white;">
+<b>Script</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="../Project/Scripts/OEC.gd" target="_blank" rel="noopener noreferrer">
+View the OEC.gd script →
+</a>
+</td>
+</tr>
+</table>
 
+<!-- 6) SOURCES -->
+<table width="1200" align="center" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td align="center" style="background-color:#111; color:white;">
+<b>Sources</b>
+</td>
+</tr>
+
+<tr id="source-step1">
+<td align="center">
+<img src="images/Screenshot 2025-09-04 095758.png" height="1000"><br>
+<small>Source: Plant Physiology and Development (7th ed.), p.272</small>
+</td>
+</tr>
+
+<tr id="source-step2">
+<td align="center">
+<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
+<small>Source: Plant Physiology and Development (7th ed.), p.272</small>
+</td>
+</tr>
+
+<tr id="source-step3">
+<td align="center">
+<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
+<small>Source: Plant Physiology and Development (7th ed.), p.272</small>
+</td>
+</tr>
+
+<tr id="source-step4">
+<td align="center">
+<img src="images/Screenshot 2025-09-04 095758.png" height="250"><br>
+<small>Source: Plant Physiology and Development (7th ed.), p.272</small>
+</td>
+</tr>
+</table>
