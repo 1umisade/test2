@@ -1,20 +1,8 @@
-<!-- Title + image (table) -->
-<table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
-<tr>
-<td align="center" style="background-color:#111; color:white;">
-<b>Oxygen-evolving complex (OEC)</b>
-</td>
-</tr>
-<tr>
-<td align="center">
+
 <img
 src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
 alt="Oxygen-evolving complex (OEC)"
-height="180"
-/>
-</td>
-</tr>
-</table>
+height="300"
 
 <!-- Text (centered, no table) -->
 <div style="max-width:700px; margin:10px auto 0; text-align:center;">
