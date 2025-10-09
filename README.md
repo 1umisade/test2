@@ -1,4 +1,4 @@
-
+![Binding of the two substrate water molecules](Documentation/images/binding of the two substrate water molecules.gif)
 
 
 
