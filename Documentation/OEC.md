@@ -39,7 +39,7 @@ height="140"
 <p style="margin:0;">
 <b>Step&nbsp;1 – Attraction:</b> H<sub>2</sub>O molecules are pulled toward the OEC through
 <code>Pulling_area</code> and begin to approach the <code>Center</code>.
-<a href="#source-step1" title="View source">🔎</a>
+<a href="../SOURCES.md#oec-step-1-attraction" target="_blank" rel="noopener noreferrer" title="Open source for this claim">🔎</a>
 </p>
 </td>
 </tr>
@@ -57,7 +57,7 @@ height="140"
 <p style="margin:0;">
 <b>Step&nbsp;2 – Locking:</b> Two waters reach the <code>Center</code>, pause physics, disable their
 colliders, and smoothly lock to anchor positions.
-<a href="#source-step2" title="View source">🔎</a>
+<a href="../SOURCES.md#oec-step-2-locking" target="_blank" rel="noopener noreferrer" title="Open source for this claim">🔎</a>
 </p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ height="140"
 <p style="margin:0;">
 <b>Step&nbsp;3 – Oxidation:</b> The routine <code>deelectronation_of_H2O()</code> runs in two steps per water
 (H<sub>2</sub>O → OH → O), spawning electrons to the chain and protons to the lumen.
-<a href="#source-step3" title="View source">🔎</a>
+<a href="../SOURCES.md#oec-step-3-oxidation" target="_blank" rel="noopener noreferrer" title="Open source for this claim">🔎</a>
 </p>
 </td>
 </tr>
@@ -93,11 +93,11 @@ height="140"
 <p style="margin:0;">
 <b>Step&nbsp;4 – Release:</b> When both sites show O, monitoring resumes, atoms are freed as “O” bodies,
 and nearby O’s are gently steered together to visualize O<sub>2</sub> formation.
-<a href="#source-step4" title="View source">🔎</a>
+<a href="../SOURCES.md#oec-step-4-release" target="_blank" rel="noopener noreferrer" title="Open source for this claim">🔎</a>
 </p>
 </td>
 </tr>
-</table>
+
 
 <!-- 4) AREAS & STATES -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
