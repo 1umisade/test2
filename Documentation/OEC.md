@@ -18,7 +18,7 @@ binds and de-electronises water to provide electrons for the photosynthetic elec
 
 <br><br>
 
-<!-- 3) SIMULATED BEHAVIOR -->
+<!-- SIMULATED BEHAVIOR -->
 <table width="1000" align="center" cellspacing="0" cellpadding="6" border="0">
 <tr>
 <td colspan="2" align="center" style="background-color:#111; color:white;">
@@ -30,7 +30,7 @@ binds and de-electronises water to provide electrons for the photosynthetic elec
 <tr>
 <td width="400" valign="top" align="center">
 <img
-![Binding of the two substrate water molecules](images/binding of the two substrate water molecules.gif)
+src="../Project/Graphics/binding.gif"
 alt="OEC step 1"
 height="140"
 />
@@ -47,7 +47,7 @@ height="140"
 <tr>
 <td width="400" valign="top" align="center">
 <img
-src="../Project/Graphics/Oxygen-evolving_complex/oxomplex_SimpleSprite.png"
+src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving complex_DetailSprite.png"
 alt="OEC step 2"
 height="140"
 />
