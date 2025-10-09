@@ -39,7 +39,7 @@ height="140"
 <p style="margin:0;">
 <b>Step&nbsp;1 – Attraction:</b> H<sub>2</sub>O molecules are pulled toward the OEC through
 <code>Pulling_area</code> and begin to approach the <code>Center</code>.
-<a href="../SOURCES.md#H₂O molecules are pulled toward the OEC through the Pulling_area and begin to approach the Center" target="_blank" rel="noopener noreferrer" title="Open source for this claim">🔎</a>
+<a href="SOURCES.md#H₂O molecules are pulled toward the OEC through the Pulling_area and begin to approach the Center" target="_blank" rel="noopener noreferrer" title="Open source for this claim">🔎</a>
 </p>
 </td>
 </tr>
