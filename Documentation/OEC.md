@@ -47,7 +47,7 @@ height="140"
 <tr>
 <td width="400" valign="top" align="center">
 <img
-src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
+src="../Project/Graphics/Oxygen-evolving_complex/oxomplex_SimpleSprite.png"
 alt="OEC step 2"
 height="140"
 />
