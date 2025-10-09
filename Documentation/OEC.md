@@ -48,7 +48,7 @@ height="380"
 <tr>
 <td width="400" valign="top" align="center">
 <img
-src="images/de_electronation_of_OEC"
+src="images/de_electronation_of_OEC.gif"
 alt="OEC step 1"
 height="380"
 />
