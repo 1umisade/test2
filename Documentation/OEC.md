@@ -37,8 +37,8 @@ height="140"
 </td>
 <td width="600" valign="middle">
 <p style="margin:0;">
-<b>Binding of water —</b> Two H₂O bind to the oxygen-evolving complex.
-<a href="SOURCES.md#Two H₂O bind to the oxygen-evolving complex.>🔎</a>
+<b>Binding of water:</b> Two H₂O molecules bind to the oxygen-evolving complex.
+<a href="SOURCES.md#H₂O molecules are pulled toward the OEC through the Pulling_area and begin to approach the Center" target="_blank" rel="noopener noreferrer" title="Open source for this claim">🔎</a>
 </p>
 </td>
 </tr>
@@ -131,4 +131,3 @@ View the OEC.gd script →
 </td>
 </tr>
 </table>
-
