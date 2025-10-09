@@ -30,7 +30,7 @@ binds and de-electronises water to provide electrons for the photosynthetic elec
 <tr>
 <td width="400" valign="top" align="center">
 <img
-src="images/binding_of_the_two_substrate_water_molecules.gif.gif"
+src="images/binding_of_the_two_substrate_water_molecules.gif"
 alt="OEC step 1"
 height="140"
 />
