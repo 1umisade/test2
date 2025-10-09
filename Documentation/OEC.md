@@ -26,13 +26,13 @@ binds and de-electronises water to provide electrons for the photosynthetic elec
 </td>
 </tr>
 
-<!-- Step 1 -->
+<!-- TABLE 1 -->
 <tr>
 <td width="400" valign="top" align="center">
 <img
 src="images/binding_of_the_two_substrate_water_molecules.gif"
 alt="OEC step 1"
-height="140"
+height="380"
 />
 </td>
 <td width="600" valign="middle">
@@ -43,59 +43,27 @@ height="140"
 </td>
 </tr>
 
-<!-- Step 2 -->
+
+<!-- TABLE 2 -->
 <tr>
 <td width="400" valign="top" align="center">
 <img
-src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving complex_DetailSprite.png"
-alt="OEC step 2"
-height="140"
+src="images/de_electronation_of_OEC"
+alt="OEC step 1"
+height="380"
 />
 </td>
 <td width="600" valign="middle">
 <p style="margin:0;">
-<b>Step&nbsp;2 – Locking:</b> Two waters reach the <code>Center</code>, pause physics, disable their
-colliders, and smoothly lock to anchor positions.
-<a href="../SOURCES.md#oec-step-2-locking" target="_blank" rel="noopener noreferrer" title="Open source for this claim">🔎</a>
+<b>Water de-electronation:</b> An excited P680 donates an electron to the electron transfer chain.
+  P680 then de-electronates neighbouring tyrosine. 
+  The tyrosine in turn takes a new electron from the oxygen-evolving complex. One of the waters is de-electronated to replenish the oxygen-evolving complex.
+<a href="SOURCES.md#Two H₂O bind to the oxygen-evolving complex.">🔎</a>
 </p>
 </td>
 </tr>
 
-<!-- Step 3 -->
-<tr>
-<td width="400" valign="top" align="center">
-<img
-src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
-alt="OEC step 3"
-height="140"
-/>
-</td>
-<td width="600" valign="middle">
-<p style="margin:0;">
-<b>Step&nbsp;3 – Oxidation:</b> The routine <code>deelectronation_of_H2O()</code> runs in two steps per water
-(H<sub>2</sub>O → OH → O), spawning electrons to the chain and protons to the lumen.
-<a href="../SOURCES.md#oec-step-3-oxidation" target="_blank" rel="noopener noreferrer" title="Open source for this claim">🔎</a>
-</p>
-</td>
-</tr>
 
-<!-- Step 4 -->
-<tr>
-<td width="400" valign="top" align="center">
-<img
-src="../Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png"
-alt="OEC step 4"
-height="140"
-/>
-</td>
-<td width="600" valign="middle">
-<p style="margin:0;">
-<b>Step&nbsp;4 – Release:</b> When both sites show O, monitoring resumes, atoms are freed as “O” bodies,
-and nearby O’s are gently steered together to visualize O<sub>2</sub> formation.
-<a href="../SOURCES.md#oec-step-4-release" target="_blank" rel="noopener noreferrer" title="Open source for this claim">🔎</a>
-</p>
-</td>
-</tr>
 
 
 <!-- 4) AREAS & STATES -->
