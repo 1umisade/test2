@@ -57,72 +57,6 @@ The goal is to provide an accurate, visually rich, and accessible tool for resea
 </tr>
 </table>
 
-<br><br><br>
-
-<h1 align="center">Documentation</h1>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Banner -->
-![MD style image](Documentation/images/Documentation_preview_banner_w_text.png)
-
-<!-- One-line intro -->
-<div align="center">
-<div style="display:inline-block; max-width:900px;">
-ProjectMPB is an interactive simulation of photosynthesis developed at the University of Turku.<br>
-The goal is to provide an accurate, visually rich, and accessible tool for researchers and educators<br> to observe photosynthetic processes in silico.
-</div>
-</div>
-
-<br>
-
-<!-- Buttons -->
-<div align="center">
-<div style="display:inline-block;">
-<a href="https://example.com/docs" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
-<img src="Documentation/images/click_run.png" alt="Run the simulation" style="height:220px;">
-</a>
-<a href="https://example.com/docs" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
-<img src="Documentation/images/click_documentation.png" alt="View documentation" style="height:220px;">
-</a>
-</div>
-</div>
-
-<br><br>
-
-<!-- Tutorial -->
-<h1 align="center">How to control the simulation?</h1>
-
-<table align="center">
-<tr>
-<td align="center"><p>Scroll to zoom</p></td>
-<td align="center"><p>Right click to move camera</p></td>
-<td align="center"><p>Left click to add particles</p></td>
-</tr>
-<tr> 
-<td align="center"><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" width="245"></td>
-<td align="center"><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" width="245"></td>
-<td align="center"><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" width="245"></td>
-</tr>
-<tr>
-<td colspan="3" align="center"><p>Adjust speed of particles using the Speed slider</p></td>
-</tr>
-<tr>
-<td colspan="3" align="center">
-<img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" width="800">
-</td>
-</tr>
-</table>
 
 <br><br><br>
 
@@ -140,200 +74,118 @@ The goal is to provide an accurate, visually rich, and accessible tool for resea
 
 
 
-<dl>
-<dd>
+<!-- Flat index with &nbsp; indents -->
 <img src="Project/Graphics/Electron/electron_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Electron.md">Electron</a>
-</dd>
+<a href="Documentation/Electron.md">Electron</a><br>
 
-<dd>
 <img src="Project/Graphics/Photon/photon_red_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Photon.md">Photon</a>
-</dd>
+<a href="Documentation/Photon.md">Photon</a><br>
 
-<dd>
 <img src="Project/Graphics/Proton/proton_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Proton.md">Proton</a>
-</dd>
+<a href="Documentation/Proton.md">Proton</a><br>
 
-<dd>
 <img src="Project/Graphics/Photosystem_II/photosystem_II_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Photosystem%20II.md">Photosystem II</a>
+<a href="Documentation/Photosystem%20II.md">Photosystem II</a><br>
 
-<!-- first nested level (×3 indent) -->
-<dl style="margin-left:3em">
-<dd>
-<img src="Project/Graphics/Chlorophyll_A/chlorophyll_A_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Chlorophyll%20A.md">Chlorophyll A</a>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Chlorophyll_A/chlorophyll_A_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Chlorophyll%20A.md">Chlorophyll A</a><br>
 
-<dd>
-<img src="Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/OEC.md">Oxygen-evolving complex</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Oxygen-evolving_complex/oxygen_evolving_complex_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/OEC.md">Oxygen-evolving complex</a><br>
 
-<!-- second nested level (×6 indent) -->
-<dl style="margin-left:6em">
-<dd>
-<img src="Project/Graphics/H2O/H2O_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/H%E2%82%82O.md">H₂O</a>
-</dd>
-<dd>
-<img src="Project/Graphics/O2/O2_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/O%E2%82%82.md">O₂</a>
-</dd>
-</dl>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/H2O/H2O_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/H%E2%82%82O.md">H₂O</a><br>
 
-<dd>
-<img src="Project/Graphics/Tyrosine/Tyrosine_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Tyrosine.md">Tyrosine</a>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/O2/O2_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/O%E2%82%82.md">O₂</a><br>
 
-<dd>
-<img src="Project/Graphics/P680/P680_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/P680.md">P680</a>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Tyrosine/Tyrosine_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Tyrosine.md">Tyrosine</a><br>
 
-<dd>
-<img src="Project/Graphics/Pheophytin/Pheophytin_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Pheophytin.md">Pheophytin</a>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/P680/P680_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/P680.md">P680</a><br>
 
-<dd>
-<img src="Project/Graphics/Plastoquinone/Plastoquinone_A_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Plastoquinone%20A.md">Plastoquinone A</a>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Pheophytin/Pheophytin_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Pheophytin.md">Pheophytin</a><br>
 
-<dd>
-<img src="Project/Graphics/Plastoquinone/Plastoquinone_B_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Plastoquinone%20B.md">Plastoquinone B</a>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Plastoquinone/Plastoquinone_A_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Plastoquinone%20A.md">Plastoquinone A</a><br>
 
-<dd>
-<img src="Project/Graphics/Cytochrome_b6f/Cytochrome_b6f_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Cytochrome%20b6f.md">Cytochrome b6f</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Plastoquinone/Plastoquinone_B_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Plastoquinone%20B.md">Plastoquinone B</a><br>
 
-<!-- second nested level (×6 indent) -->
-<dl style="margin-left:6em">
-<dd>
-<img src="Project/Graphics/2Fe-2S/2Fe-2S_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/2Fe-2S.md">2Fe-2S</a>
-</dd>
-<dd>
-<img src="Project/Graphics/Heme/Heme_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Heme%20f.md">Heme f</a>
-</dd>
-<dd>
-<img src="Project/Graphics/Heme/Heme_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Heme%20bH.md">Heme bH</a>
-</dd>
-<dd>
-<img src="Project/Graphics/Heme/Heme_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Heme%20bL.md">Heme bL</a>
-</dd>
-</dl>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Cytochrome_b6f/Cytochrome_b6f_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Cytochrome%20b6f.md">Cytochrome b6f</a><br>
 
-<dd>
-<img src="Project/Graphics/Plastocyanin/plastocyanin_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Plastocyanin.md">Plastocyanin</a>
-</dd>
-</dl>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/2Fe-2S/2Fe-2S_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/2Fe-2S.md">2Fe-2S</a><br>
 
-<dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Heme/Heme_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Heme%20f.md">Heme f</a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Heme/Heme_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Heme%20bH.md">Heme bH</a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Heme/Heme_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Heme%20bL.md">Heme bL</a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Plastocyanin/plastocyanin_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Plastocyanin.md">Plastocyanin</a><br>
+
 <img src="Project/Graphics/Photosystem_I/photosystem_I_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Photosystem%20I.md">Photosystem I</a>
+<a href="Documentation/Photosystem%20I.md">Photosystem I</a><br>
 
-<!-- first nested level (×3 indent) -->
-<dl style="margin-left:3em">
-<dd>
-<img src="Project/Graphics/Chlorophyll_A/chlorophyll_A_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Chlorophyll%20A.md">Chlorophyll A</a>
-</dd>
-<dd>
-<img src="Project/Graphics/P680/P680_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/P700.md">P700</a>
-</dd>
-<dd>
-<img src="Project/Graphics/Phylloquinone/phylloquinone_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Phylloquinone.md">Phylloquinone</a>
-</dd>
-<dd>
-<img src="Project/Graphics/4Fe-4S/4Fe-4S_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/4Fe-4S%20%28FX%29.md">4Fe-4S (FX)</a>
-</dd>
-<dd>
-<img src="Project/Graphics/4Fe-4S/4Fe-4S_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/4Fe-4S%20%28FA%29.md">4Fe-4S (FA)</a>
-</dd>
-<dd>
-<img src="Project/Graphics/4Fe-4S/4Fe-4S_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/4Fe-4S%20%28FB%29.md">4Fe-4S (FB)</a>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Chlorophyll_A/chlorophyll_A_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Chlorophyll%20A.md">Chlorophyll A</a><br>
 
-<dd>
-<img src="Project/Graphics/ferredoxin-NADP-reductase/ferredoxin-NADP-reductase_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Ferredoxin-NADP-reductase.md">Ferredoxin-NADP-reductase</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/P680/P680_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/P700.md">P700</a><br>
 
-<!-- second nested level (×6 indent) -->
-<dl style="margin-left:6em">
-<dd>
-<img src="Project/Graphics/ferredoxin/ferredoxin_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Ferredoxin.md">Ferredoxin</a>
-</dd>
-<dd>
-<img src="Project/Graphics/NADP/NADP_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/NADP%2B.md">NADP+</a>
-</dd>
-</dl>
-</dd>
-</dl>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Phylloquinone/phylloquinone_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Phylloquinone.md">Phylloquinone</a><br>
 
-<dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/4Fe-4S/4Fe-4S_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/4Fe-4S%20%28FX%29.md">4Fe-4S (FX)</a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/4Fe-4S/4Fe-4S_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/4Fe-4S%20%28FA%29.md">4Fe-4S (FA)</a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/4Fe-4S/4Fe-4S_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/4Fe-4S%20%28FB%29.md">4Fe-4S (FB)</a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ferredoxin-NADP-reductase/ferredoxin-NADP-reductase_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Ferredoxin-NADP-reductase.md">Ferredoxin-NADP-reductase</a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ferredoxin/ferredoxin_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Ferredoxin.md">Ferredoxin</a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/NADP/NADP_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/NADP%2B.md">NADP+</a><br>
+
 <img src="Project/Graphics/ATP-synthase/ATP-synthase_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/ATP-synthase.md">ATP-synthase</a>
+<a href="Documentation/ATP-synthase.md">ATP-synthase</a><br>
 
-<!-- first nested level (×3 indent) -->
-<dl style="margin-left:3em">
-<dd>
-<img src="Project/Graphics/ATP/ATP_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/ATP.md">ATP</a>
-</dd>
-<dd>
-<img src="Project/Graphics/ADP/ADP_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/ADP.md">ADP</a>
-</dd>
-<dd>
-<img src="Project/Graphics/Phosphate/phosphate_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Phosphate.md">Phosphate</a>
-</dd>
-</dl>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ATP/ATP_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/ATP.md">ATP</a><br>
 
-<dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ADP/ADP_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/ADP.md">ADP</a><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/Phosphate/phosphate_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Phosphate.md">Phosphate</a><br>
+
 <img src="Project/Graphics/RuBisCO/RuBisCO_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/RuBisCO.md">RuBisCO</a>
+<a href="Documentation/RuBisCO.md">RuBisCO</a><br>
 
-<!-- first nested level (×3 indent) -->
-<dl style="margin-left:3em">
-<dd>
-<img src="Project/Graphics/3-phosphoglyceric_acid (3PGA)/3-phosphoglyceric_acid(3PGA)_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/3-phosphoglyceric%20acid%20%283PGA%29.md">3-phosphoglyceric acid (3PGA)</a>
-</dd>
-<dd>
-<img src="Project/Graphics/ribulose-1,5-bisphosphate (RuBP)/ribulose-1,5-bisphosphate_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/Ribulose-1%2C5-bisphosphate%20%28RuBP%29.md">Ribulose-1,5-bisphosphate (RuBP)</a>
-</dd>
-</dl>
-</dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/3-phosphoglyceric_acid (3PGA)/3-phosphoglyceric_acid(3PGA)_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/3-phosphoglyceric%20acid%20%283PGA%29.md">3-phosphoglyceric acid (3PGA)</a><br>
 
-<dd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Project/Graphics/ribulose-1,5-bisphosphate (RuBP)/ribulose-1,5-bisphosphate_SimpleSprite.png" height="18" align="absmiddle">
+<a href="Documentation/Ribulose-1%2C5-bisphosphate%20%28RuBP%29.md">Ribulose-1,5-bisphosphate (RuBP)</a><br>
+
 <img src="Project/Graphics/CO2/CO2_SimpleSprite.png" height="18" align="absmiddle">
-<a href="Documentation/CO%E2%82%82.md">CO₂</a>
-</dd>
-</dl>
+<a href="Documentation/CO%E2%82%82.md">CO₂</a><br>
+
 
 
 
