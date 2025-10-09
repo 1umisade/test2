@@ -37,7 +37,7 @@ height="380"
 </td>
 <td width="600" valign="middle">
 <p style="margin:0;">
-<b>Binding of water:</b> Two H₂O molecules bind to the oxygen-evolving complex.
+<b>Binding of H₂O:</b> Two H₂O molecules bind to the oxygen-evolving complex.
 <a href="SOURCES.md#Two H₂O bind to the oxygen-evolving complex.">🔎</a>
 </p>
 </td>
@@ -55,10 +55,11 @@ height="380"
 </td>
 <td width="600" valign="middle">
 <p style="margin:0;">
-<b>Water de-electronation:</b> An excited P680 donates an electron to the electron transfer chain.
-  P680 then de-electronates neighbouring tyrosine. 
-  The tyrosine in turn takes a new electron from the oxygen-evolving complex. One of the waters is de-electronated to replenish the oxygen-evolving complex.
-<a href="SOURCES.md#Two H₂O bind to the oxygen-evolving complex.">🔎</a>
+<b>H₂O splitting:</b> 
+When the central chlorophyll pair of photosystem II loses an electron, the resulting chain reaction of electron transfers ends with the splitting of H₂O in the oxygen-evolving complex.
+  Once having lost its electron, P680 receives a replacement from a nearby tyrosine molecule.
+  The oxygen-evolving complex then supplies an electron to that tyrosine. Each time the OEC gives away an electron,
+  it pulls one from its bound H₂O particles, resulting in a simultaneous release of a proton to the lumen. <a href="SOURCES.md#Two H₂O bind to the oxygen-evolving complex.">🔎</a>
 </p>
 </td>
 </tr>
