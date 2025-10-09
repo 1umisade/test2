@@ -5,13 +5,13 @@
 
 ### Two H₂O bind to the oxygen-evolving complex.
 
-| Source | *Plant Physiology and Development* (7th ed.), p.272 |
+| Source | Water oxidation in photosystem II |
 |---|---|
-| Author(s) | Lincoln Taiz; Eduardo Zeiger; Ian M. Møller; Angus Murphy |
-| Link | [See image ↓](#oec-step-1-img) |
+| Author(s) | Lubitz, W., Chrysina, M. & Cox, N. |
+| Link | [See image ↓]https://link.springer.com/article/10.1007/s11120-019-00648-3 |
 
-<p align="center" id="oec-step-1-img">
-  <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
+<p align="center">
+  <img src="images/binding of the two substrate water molecules.png" height="800"><br>
   <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
 
@@ -56,6 +56,7 @@
   <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
   <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
+
 
 
 
