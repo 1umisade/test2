@@ -3,7 +3,7 @@
 
 ---
 
-### Two H₂O molecules bind to the oxygen-evolving complex.
+### Two H₂O bind to the oxygen-evolving complex.
 
 | Source | *Plant Physiology and Development* (7th ed.), p.272 |
 |---|---|
@@ -56,5 +56,6 @@
   <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
   <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
+
 
 
