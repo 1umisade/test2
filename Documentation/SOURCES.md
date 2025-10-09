@@ -1,10 +1,9 @@
-# Sources — Oxygen-Evolving Complex (OEC)
+<h1 align="center">Sources</h1>
 
-Each section below corresponds to a step in the OEC simulation.
 
 ---
 
-### "H₂O molecules are pulled toward the OEC through the *Pulling_area* and begin to approach the *Center*." <a id="oec-step-1"></a> <sup>[🔗](OxygenEvolvingComplex.md#oec-step-1 "Return to OEC")</sup>
+### H₂O molecules are pulled toward the OEC through the *Pulling_area* and begin to approach the *Center*.
 
 | Source | *Plant Physiology and Development* (7th ed.), p.272 |
 |---|---|
@@ -57,3 +56,4 @@ Each section below corresponds to a step in the OEC simulation.
   <img src="images/Screenshot 2025-09-04 095758.png" height="800"><br>
   <small>Source: *Plant Physiology and Development* (7th ed.), p.272</small>
 </p>
+
