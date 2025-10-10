@@ -2,7 +2,7 @@
 
 ---
 
-### When the central chlorophyll pair of photosystem II (P680) loses an electron, the resulting chain reaction of electron transfers ends with the splitting of H₂O in the oxygen-evolving complex.
+### Two H₂O molecules bind to the oxygen-evolving complex..
 
 | **Source** | **Water oxidation in photosystem II** |
 |:---|:---|
@@ -50,3 +50,4 @@
 
 
 ---
+
