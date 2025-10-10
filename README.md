@@ -1,8 +1,8 @@
 <table width="500" align="center" cellpadding="8" cellspacing="0" border="0" style="table-layout:fixed;">
 <tr>
-<th width="40%" align="left";">Index</th>
-<th width="33%" align="left";">Sources & attributions</th>
-<th width="33%" align="left";">Licensing</th>
+<th width="45%" align="left";">Index</th>
+<th width="33%" align="left";">Sources & Attributions</th>
+<th width="33%" align="left";">Licensing & Contact</th>
 </tr>
 
 <tr>
@@ -32,7 +32,7 @@
 <li><img src="Project/Graphics/Plastoquinone/Plastoquinone_A_SimpleSprite.png" height="18" align="absmiddle"> <a href="Documentation/Plastoquinone%20A.md">Plastoquinone A</a></li>
 <li><img src="Project/Graphics/Plastoquinone/Plastoquinone_B_SimpleSprite.png" height="18" align="absmiddle"> <a href="Documentation/Plastoquinone%20B.md">Plastoquinone B</a></li>
 <li>
-<img src="images/dimeric_Cytochrome_b6f_SimpleSprite.png" height="18" align="absmiddle">
+<img src="Documentation/images/dimeric_Cytochrome_b6f_SimpleSprite.png" height="18" align="absmiddle">
 <a href="Documentation/Cytochrome%20b6f.md">Cytochrome b6f</a>
 <ul style="margin-left:3em">
 <li><img src="Project/Graphics/2Fe-2S/2Fe-2S_SimpleSprite.png" height="18" align="absmiddle"> <a href="Documentation/2Fe-2S.md">2Fe-2S</a></li>
@@ -88,30 +88,51 @@
 
 </td>
 
-<!-- MIDDLE: ACKS & LICENSING (dummy) -->
-<td valign="top" style="vertical-align:top;">
-  <b>Acknowledgments</b><br>
-  Placeholder — University / Lab / Advisors<br>
-  Placeholder — Contributors &amp; Testers<br>
-  Open-source: Godot, XRTools, GDScript<br><br>
 
-  <b>Licensing</b><br>
-  Code: MIT (placeholder)<br>
-  Art &amp; media: CC BY-NC-ND 4.0 (placeholder)<br>
-  Data/models: CC BY 4.0 (placeholder)<br>
-  &copy; 2025 ProjectMPB (placeholder)
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MIDDLE -->
+<td valign="top" style="vertical-align:top;">
+ <b>Attributions</b><br>
+ <img src="Documentation/images/chimeraX_icon.png" style="height:55px;"><br>
+  Molecular graphics and analyses performed with UCSF ChimeraX, developed by the Resource for Biocomputing, 
+ Visualization, and Informatics at the University of California, San Francisco, with support from National 
+ Institutes of Health R01-GM129325 and the Office of Cyber Infrastructure and Computational Biology, National 
+ Institute of Allergy and Infectious Diseases.
+ <br>
+ <br>
+ <b>Sources</b><br>
+ Lubitz W., Chrysina M., Cox N. (2019) <i>Water oxidation in photosystem II</i><br>
+ <br>
+ Taiz L., Zeiger E., Møller I.M., Murphy A. (2015) <i>Plant Physiology and Development, 6th Edition</i>, Sinauer Associates / Oxford University Press.<br>
 </td>
 
-<!-- RIGHT: QUICK LINKS (dummy) -->
+<!-- RIGHT-->
 <td valign="top" style="vertical-align:top;">
-  <b>Quick links</b><br>
-  <a href="README.md">Overview</a><br>
-  <a href="Documentation/README.md">Docs home</a><br>
-  <a href="SOURCES.md">Sources</a><br>
-  <a href="CHANGELOG.md">Changelog</a><br>
-  <a href="LICENSE">License</a><br>
-  <a href="CONTRIBUTING.md">Contributing</a><br>
-  <a href="issues">Issues</a> &nbsp;/&nbsp; <a href="pulls">PRs</a>
+ <img src="Documentation/images/utu_icon.png" style="height:80px;"><br>
+<b>© 2025 ProjectMPB</b> — Developed at the University of Turku —
+, includes code and educational materials distributed under the <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer">MIT License</a>.
+ <br>
+ <br>
+<b>Contributors</b><br>
+  Project leader — Mikko Tikkanen, Assistant Professor, Department of Biochemistry, University of Turku.
+  <br>
+ Scientific supervision — Grzegorz Konert, Postdoctoral Researcher, Department of Biochemistry, University of Turku.
+ <br>
+ Graphics & Codebase — Aku Kangas, Research Assistant and BSc Student of Biochemistry, University of Turku
+ <br>
+ 
+ 
 </td>
 </tr>
 </table>
