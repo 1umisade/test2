@@ -54,7 +54,7 @@ The goal is to provide an accurate, visually rich, and accessible tool for resea
 
 <br><br><br>
 
-<h1 align="center">Documentation</h1>
+<h1 align="center">Index</h1>
 <br>
 
 
