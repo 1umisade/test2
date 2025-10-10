@@ -61,7 +61,7 @@ When the central chlorophyll pair of photosystem II (P680) loses an electron, th
 <sup><a href="SOURCES.md#When the central chlorophyll pair of photosystem II (P680) loses an electron, the resulting chain reaction of electron transfers ends with the splitting of H₂O in the oxygen-evolving complex.">🔎</a></sup>
 
 Once having lost its electron, P680 receives a replacement from a nearby tyrosine molecule.
-<sup><a href="SOURCES.md#Once having lost its electron, P680 receives a replacement from a nearby tyrosine molecule.">🔎</a></sup>
+<sup><a href="SOURCES.md###Once having lost its electron, P680 receives a replacement from a nearby tyrosine molecule.">🔎</a></sup>
 
 The oxygen-evolving complex then supplies an electron to that tyrosine.
 <sup><a href="SOURCES.md#The oxygen-evolving complex then supplies an electron to that tyrosine.">🔎</a></sup>
