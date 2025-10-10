@@ -38,7 +38,7 @@ height="380"
 <td width="600" valign="middle">
 <p style="margin:0;">
 <b>Binding of H₂O:</b> Two H₂O molecules bind to the oxygen-evolving complex.
-<a href="SOURCES.md#Two H₂O bind to the oxygen-evolving complex.">🔎</a>
+<a href="SOURCES.md#Two H₂O molecules bind">🔎</a>
 </p>
 </td>
 </tr>
