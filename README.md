@@ -1,6 +1,6 @@
 <table width="500" align="center" cellpadding="8" cellspacing="0" border="0" style="table-layout:fixed;">
 <tr>
-<th width="45%" align="left";">Index</th>
+<th width="42%" align="left";">Index</th>
 <th width="33%" align="left";">Sources & Attributions</th>
 <th width="33%" align="left";">Licensing & Contact</th>
 </tr>
@@ -103,15 +103,15 @@
 
 <!-- MIDDLE -->
 <td valign="top" style="vertical-align:top;">
- <b>Attributions</b><br>
- <img src="Documentation/images/chimeraX_icon.png" style="height:55px;"><br>
+ <p align="center"><b>Attributions</b></p>
+ <img src="Documentation/images/chimeraX_icon.png" style="height:60px;"><br>
   Molecular graphics and analyses performed with UCSF ChimeraX, developed by the Resource for Biocomputing, 
  Visualization, and Informatics at the University of California, San Francisco, with support from National 
  Institutes of Health R01-GM129325 and the Office of Cyber Infrastructure and Computational Biology, National 
  Institute of Allergy and Infectious Diseases.
  <br>
  <br>
- <b>Sources</b><br>
+ <p align="center"><b>Sources</b></p>
  Lubitz W., Chrysina M., Cox N. (2019) <i>Water oxidation in photosystem II</i><br>
  <br>
  Taiz L., Zeiger E., Møller I.M., Murphy A. (2015) <i>Plant Physiology and Development, 6th Edition</i>, Sinauer Associates / Oxford University Press.<br>
@@ -119,15 +119,18 @@
 
 <!-- RIGHT-->
 <td valign="top" style="vertical-align:top;">
- <img src="Documentation/images/utu_icon.png" style="height:80px;"><br>
+ <p align="center"><b>Licensing</b></p>
+ <img src="Documentation/images/utu_icon.png" style="height:60px;"><br>
 <b>© 2025 ProjectMPB</b> — Developed at the University of Turku —
 , includes code and educational materials distributed under the <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer">MIT License</a>.
  <br>
  <br>
-<b>Contributors</b><br>
+<p align="center"><b>Contact</b></p>
   Project leader — Mikko Tikkanen, Assistant Professor, Department of Biochemistry, University of Turku.
   <br>
+  <br>
  Scientific supervision — Grzegorz Konert, Postdoctoral Researcher, Department of Biochemistry, University of Turku.
+ <br>
  <br>
  Graphics & Codebase — Aku Kangas, Research Assistant and BSc Student of Biochemistry, University of Turku
  <br>
