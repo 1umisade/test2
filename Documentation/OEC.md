@@ -63,7 +63,7 @@ Once having lost its electron, P680 receives a replacement from a nearby tyrosin
 <sup><a href="SOURCES.md#once-having-lost-its-electron-p680-receives-a-replacement-from-a-nearby-tyrosine-molecule">🔎</a></sup>
 
 The oxygen-evolving complex then supplies an electron to that tyrosine.
-<a href="SOURCES.md#the-oxygen-evolving-complex-then-supplies-an-electron-to-that-tyrosine">The oxygen-evolving complex then supplies an electron to that tyrosine.</a>
+<sup><a href="SOURCES.md#the-oxygen-evolving-complex-then-supplies-an-electron-to-that-tyrosine">🔎</a></sup>
 
 
 Each time the OEC gives away an electron, it pulls one from its bound H₂O particles, resulting in a simultaneous release of a proton to the lumen.
